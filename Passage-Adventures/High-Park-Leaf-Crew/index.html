@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#203c32">
+  <title>High Park Leaf Crew · Passage Adventures</title>
+  <link rel="stylesheet" href="fonts/andika.css">
+  <link rel="stylesheet" href="style.css?v=try-first">
+  <script defer src="story.js?v=full-chapter"></script>
+  <script defer src="practice.js?v=full-chapter"></script>
+  <script defer src="activity.js?v=try-first"></script>
+</head>
+<body>
+  <main class="activity">
+    <header class="masthead">
+      <a href="../index.html">← Stories</a>
+      <span class="edition">Featured Story <span aria-hidden="true">·</span> <time datetime="2026-11-08">Nov 8</time></span>
+      <a href="../../index.html#all-adventures">All Adventures</a>
+    </header>
+    <div class="titlebar">
+      <div>
+        <p class="eyebrow">HIGH PARK LEAF CREW <span aria-hidden="true">·</span> <span id="chapter-kicker"></span></p>
+        <h1 id="chapter-heading">A slippery path</h1>
+      </div>
+      <div class="pickers">
+        <label>Level <select id="level"><option>Pre-A</option><option>A</option><option>AA</option><option>AAA</option><option>AAAA</option></select></label>
+        <label>Chapter <select id="chapter"></select></label>
+        <button type="button" id="expand-thumbnail" aria-label="Expand picture" aria-haspopup="dialog">
+          <img id="scene-thumbnail" alt="">
+        </button>
+      </div>
+    </div>
+    <div class="toolbar">
+      <div class="font-control">
+        <label for="font-size">Text size</label>
+        <input type="range" id="font-size" min="85" max="145" step="5" value="100" aria-valuetext="100%">
+        <output for="font-size" id="font-value" aria-hidden="true">100%</output>
+      </div>
+      <button type="button" id="listen">▶ Listen</button>
+      <button type="button" id="voice" aria-pressed="true">Voice on</button>
+      <label>Speed <select id="speed" aria-label="Voice speed"><option value="0.75">Slow · 0.75×</option><option value="0.9">Gentle · 0.9×</option><option value="1" selected>Steady · 1×</option><option value="1.2">Quick · 1.2×</option></select></label>
+      <button type="button" class="print-control" id="print" aria-label="Print this chapter">Print</button>
+    </div>
+    <div class="board">
+      <figure id="picture-panel" class="picture-panel">
+        <img id="scene" width="624" height="415" alt="">
+        <figcaption>
+          <div><span id="scene-number"></span><strong id="scene-title"></strong></div>
+          <button type="button" id="expand-picture" aria-haspopup="dialog">Expand picture</button>
+        </figcaption>
+      </figure>
+      <section id="exercise" class="exercise" aria-label="Reading activity">
+        <div class="steps" role="group" aria-label="Skill in this chapter">
+          <button type="button" data-step="0">1. Story</button>
+          <button type="button" data-step="1">2. Word work</button>
+          <button type="button" data-step="2">3. Quick check</button>
+        </div>
+        <div id="question-content" class="question-content">
+          <div class="skill-line">
+            <p class="eyebrow" id="skill"></p>
+            <span id="page-label" aria-live="polite" hidden></span>
+            <button type="button" id="passage-toggle" aria-controls="reading-clue" aria-expanded="false" hidden>Read passage</button>
+          </div>
+          <p id="reading-clue" class="reading-clue" hidden></p>
+          <p id="prompt" class="prompt"></p>
+          <div id="choices" class="choices" role="group" aria-label="Answer options"></div>
+          <div id="feedback" class="feedback" role="status" aria-live="polite"></div>
+        </div>
+        <div id="summary" class="summary" hidden>
+          <p class="eyebrow">THE CREW’S TAKEAWAY</p>
+          <h2>You can balance work and play.</h2>
+          <p id="summary-line"></p>
+          <button type="button" id="review">Review the story</button>
+        </div>
+      </section>
+    </div>
+    <footer>
+      <button type="button" id="back">← Back</button>
+      <span id="progress"></span>
+      <button type="button" class="primary" id="check" disabled>Check</button>
+      <button type="button" id="next">Next →</button>
+    </footer>
+  </main>
+  <dialog id="picture-dialog" aria-labelledby="expanded-title">
+    <div class="expanded-picture">
+      <header>
+        <h2 id="expanded-title"></h2>
+        <form method="dialog"><button type="submit" autofocus>Close picture</button></form>
+      </header>
+      <img id="expanded-scene" alt="">
+    </div>
+  </dialog>
+  <section class="worksheet" id="worksheet" aria-hidden="true"></section>
+</body>
+</html>

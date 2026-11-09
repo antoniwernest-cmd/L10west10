@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "change": "Subtle pastel letter-group highlighting for Passage Adventures Pre-A and A",
+  "scope": {
+    "levels": [
+      "Pre-A",
+      "A"
+    ],
+    "storiesPerLevel": 30,
+    "passages": 60,
+    "responseTasks": 600
+  },
+  "palette": {
+    "blend": "#deece7",
+    "digraph": "#eee4f3",
+    "vowelNeighbours": "#f7ead5"
+  },
+  "unit": {
+    "samples": 53,
+    "stringsChecked": 6576,
+    "patterns": 24902,
+    "types": {
+      "blend": 9705,
+      "digraph": 9339,
+      "vowel": 5858
+    }
+  },
+  "dom": {
+    "allActivities": 600,
+    "upperLevelChecks": 3,
+    "recheckedAfterWrappingFix": 183
+  },
+  "layout": {
+    "checks": 266,
+    "issues": 0,
+    "viewports": [
+      "1366x768",
+      "1024x552",
+      "768x924",
+      "1024x680",
+      "390x844",
+      "844x390",
+      "1024x430"
+    ],
+    "engine": "Installed Google Chrome, headless, touch emulation"
+  },
+  "interactionChecks": [
+    {
+      "lv": "Pre-A",
+      "mode": "choice",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "sequence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "truefalse",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "cloze",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "match",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "evidence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "picture",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "dialogue",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "inference",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "Pre-A",
+      "mode": "sentence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "choice",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "sequence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "truefalse",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "cloze",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "match",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "evidence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "picture",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "dialogue",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "inference",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "sentence",
+      "touch": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "sequence",
+      "mouse": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "match",
+      "mouse": true,
+      "complete": true
+    },
+    {
+      "lv": "A",
+      "mode": "sentence",
+      "mouse": true,
+      "complete": true
+    },
+    {
+      "voice": "Cloze hides full story, reads raw prompt"
+    }
+  ],
+  "printPages": 1,
+  "consoleErrors": 0,
+  "missingResources": 0,
+  "contentAndProgressRules": "Story data, task data, scoring, saved state format and full-story cloze locking are unchanged.",
+  "visualReview": [
+    "A-desktop.png",
+    "Pre-A-cloze-tablet.png",
+    "match-phone.png"
+  ],
+  "notes": "Matching placeholders keep one text wrapper so highlighted letters do not become separate flex items. Letter spans keep zero padding and margins inside word-bank chips."
+}

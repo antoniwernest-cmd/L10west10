@@ -1,0 +1,51 @@
+{
+  "checkedOn": "2026-10-29",
+  "scope": [
+    "Passage Adventures: all four levels and all ten response formats",
+    "Main collection menu",
+    "Story selector, picture IDs, teacher dialogs, typing mode"
+  ],
+  "engine": "Google Chrome 156.0.8078.76",
+  "method": "Desktop Chrome with emulated touch, tablet pixel density, and usable viewport sizes after toolbar or keyboard space.",
+  "physicalHardwareTested": false,
+  "viewports": [
+    "1366x657",
+    "1280x600",
+    "1024x552",
+    "1100x620",
+    "1024x680",
+    "768x924",
+    "1180x720",
+    "820x1080",
+    "768x540",
+    "1024x430",
+    "820x570",
+    "1180x440",
+    "390x844",
+    "844x390"
+  ],
+  "layoutChecks": 1288,
+  "layoutFailures": 0,
+  "interactionChecks": 41,
+  "mouseAndTouch": true,
+  "dragToReturnAndRevise": true,
+  "rotateDuringDragCancelsCleanly": true,
+  "shuffleRetainsProgress": true,
+  "answersSurviveReload": true,
+  "teacherVoiceSettingPersists": true,
+  "reducedKeyboardSpaceTyping": true,
+  "printPages": 1,
+  "improvements": [
+    "Single full-width Story/Respond pane below 1100px width or 700px usable height",
+    "Larger tablet controls and draggable words",
+    "Two-column event positions on short landscape screens",
+    "Visual viewport height tracking and keyboard-resizing hint",
+    "Picture choices fit their card interiors",
+    "Stop audio restores the Listen button label"
+  ],
+  "limits": [
+    "Touch and screen sizes emulated in desktop Chrome; physical Chromebook, Android tablet and iPad not available.",
+    "Speech requests and cancellation checked; device speakers and installed voices require a device check."
+  ],
+  "errors": []
+}

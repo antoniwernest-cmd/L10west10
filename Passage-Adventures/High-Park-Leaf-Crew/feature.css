@@ -1,0 +1,62 @@
+.high-park-feature {
+  --feature-height: clamp(86px, 15vh, 138px);
+  display: grid;
+  grid-template-columns: minmax(82px, .8fr) minmax(0, 3fr) auto;
+  align-items: center;
+  gap: clamp(7px, 1.4vw, 22px);
+  height: var(--feature-height);
+  min-width: 0;
+  padding-right: clamp(8px, 1.8vw, 28px);
+  overflow: hidden;
+  border: 2px solid #314e3f;
+  border-radius: 14px;
+  background: #203c32;
+  color: #fffcf1;
+  text-decoration: none;
+}
+.high-park-feature img { width: 100%; height: calc(var(--feature-height) - 4px); object-fit: cover; object-position: 50% 40%; }
+.high-park-feature .feature-copy { min-width: 0; display: grid; gap: 3px; }
+.high-park-feature .feature-tag {
+  justify-self: start;
+  border-radius: 999px;
+  padding: 3px 8px;
+  background: #f6d78d;
+  color: #4d2e16;
+  font-size: clamp(10px, 1.3vw, 13px);
+  font-weight: 800;
+}
+.high-park-feature .feature-title {
+  margin: 0;
+  font-size: clamp(19px, 3.3vw, 38px);
+  font-weight: 800;
+  line-height: 1.05;
+}
+.high-park-feature .feature-subtitle { color: #f7eed7; font-size: clamp(10px, 1.4vw, 15px); }
+.high-park-feature .feature-link {
+  border-radius: 999px;
+  background: #fffcf1;
+  color: #203c32;
+  padding: .65em .8em;
+  font-size: clamp(11px, 1.4vw, 16px);
+  font-weight: 800;
+  text-align: center;
+}
+.high-park-feature:focus-visible { outline: 3px solid #ae471e; outline-offset: 2px; }
+.portal .high-park-feature { --feature-height: clamp(69px, 10vh, 105px); }
+.portal .high-park-feature .feature-title { font-size: clamp(17px, 2.6vw, 28px); }
+@media (max-width: 620px) {
+  .high-park-feature { grid-template-columns: minmax(65px, 1fr) minmax(0, 3fr) auto; }
+  .high-park-feature .feature-subtitle { display: none; }
+  .high-park-feature .feature-link { max-width: 70px; border-radius: 8px; }
+}
+@media (max-height: 650px) {
+  #project-hub .high-park-feature { --feature-height: 80px; }
+}
+@media (max-height: 530px) {
+  #project-hub .high-park-feature, .portal .high-park-feature { --feature-height: 63px; }
+  .high-park-feature .feature-subtitle { display: none; }
+}
+@media print {
+  #project-hub .high-park-feature, .portal .high-park-feature { --feature-height: 17mm; }
+  .high-park-feature { print-color-adjust: exact; }
+}

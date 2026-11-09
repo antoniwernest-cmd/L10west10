@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-11-01",
+  "stories": 30,
+  "levels": [
+    "Pre-A",
+    "A",
+    "AA",
+    "AAA",
+    "AAAA"
+  ],
+  "passages": 150,
+  "responseActivities": 1500,
+  "preAWords": [
+    31,
+    42
+  ],
+  "allPreAShorterThanA": true,
+  "previousLevelsUnchanged": true,
+  "preAMatchingPairs": 2,
+  "preAClozeGaps": 1,
+  "clozeChecks": 150,
+  "clozeBankAndTypingChecks": 5,
+  "fullStoryHiddenUntilCorrect": true,
+  "listenUsesGappedPrompt": true,
+  "bankOrderShuffled": true,
+  "incorrectAnswerStaysHidden": true,
+  "resetHidesStoryAgain": true,
+  "preAInteractiveFormats": 10,
+  "layoutChecks": 568,
+  "layoutFailures": 0,
+  "oldAndNewProgressPreserved": true,
+  "allFiveIndexLevelsRouteCorrectly": true,
+  "excelSummaryRows": 51,
+  "excelProgressRows": 1501,
+  "clozePrintPages": 1,
+  "completedStoryAbsentFromUnsolvedPrint": true,
+  "verification": "Desktop Chrome with emulated touch and Chromebook/tablet viewports. Physical devices were unavailable.",
+  "errors": []
+}

@@ -1,0 +1,873 @@
+{
+  "stories": 30,
+  "versions": 150,
+  "responses": 1500,
+  "levels": [
+    "Pre-A",
+    "A",
+    "AA",
+    "AAA",
+    "AAAA"
+  ],
+  "activities": {
+    "choice": "Multiple Choice",
+    "sequence": "Story Sequencing",
+    "truefalse": "True or False",
+    "cloze": "Missing Words",
+    "match": "Match the Pairs",
+    "evidence": "Highlight the Evidence",
+    "picture": "Picture Selection",
+    "dialogue": "Who Said It?",
+    "inference": "Inference Detective",
+    "sentence": "Build a Sentence"
+  },
+  "readingProgression": {
+    "Pre-A": "Very short sentences, familiar words, two-word matches and one missing word.",
+    "A": "Direct sentences, clear details and four-event retelling.",
+    "AA": "Longer content, linked events and simple reasons.",
+    "AAA": "Richer vocabulary, motives and connected clues.",
+    "AAAA": "Layered content, competing explanations, limits and precise evidence."
+  },
+  "storiesIndex": [
+    {
+      "id": "cenote",
+      "title": "The Light Below",
+      "image": "assets/cenote.webp",
+      "alt": "a natural pool between limestone walls beside a viewing walkway",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 39
+        },
+        {
+          "level": "A",
+          "words": 71
+        },
+        {
+          "level": "AA",
+          "words": 89
+        },
+        {
+          "level": "AAA",
+          "words": 122
+        },
+        {
+          "level": "AAAA",
+          "words": 142
+        }
+      ]
+    },
+    {
+      "id": "mechanic",
+      "title": "The Squeak in the Blue Car",
+      "image": "assets/mechanic.webp",
+      "alt": "a mechanic inspecting a blue car in a garage",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 35
+        },
+        {
+          "level": "A",
+          "words": 67
+        },
+        {
+          "level": "AA",
+          "words": 95
+        },
+        {
+          "level": "AAA",
+          "words": 127
+        },
+        {
+          "level": "AAAA",
+          "words": 153
+        }
+      ]
+    },
+    {
+      "id": "dentist",
+      "title": "The Tiny Mirror",
+      "image": "assets/dentist.webp",
+      "alt": "a dentist explaining a tooth model and mirror to a child",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 33
+        },
+        {
+          "level": "A",
+          "words": 66
+        },
+        {
+          "level": "AA",
+          "words": 90
+        },
+        {
+          "level": "AAA",
+          "words": 137
+        },
+        {
+          "level": "AAAA",
+          "words": 156
+        }
+      ]
+    },
+    {
+      "id": "city-gardener",
+      "title": "The Thirsty Corner",
+      "image": "assets/city-gardener.webp",
+      "alt": "a gardener and children tending raised planters in a city",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 33
+        },
+        {
+          "level": "A",
+          "words": 60
+        },
+        {
+          "level": "AA",
+          "words": 104
+        },
+        {
+          "level": "AAA",
+          "words": 131
+        },
+        {
+          "level": "AAAA",
+          "words": 161
+        }
+      ]
+    },
+    {
+      "id": "ferry",
+      "title": "The Last Bicycle",
+      "image": "assets/ferry.webp",
+      "alt": "a ferry captain and deckhand welcoming passengers across a boarding ramp",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 33
+        },
+        {
+          "level": "A",
+          "words": 63
+        },
+        {
+          "level": "AA",
+          "words": 95
+        },
+        {
+          "level": "AAA",
+          "words": 143
+        },
+        {
+          "level": "AAAA",
+          "words": 164
+        }
+      ]
+    },
+    {
+      "id": "window-washers",
+      "title": "The Mark That Would Not Wash Away",
+      "image": "assets/window-washers.webp",
+      "alt": "professional window cleaners working from a secured platform outside a skyscraper",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 37
+        },
+        {
+          "level": "A",
+          "words": 65
+        },
+        {
+          "level": "AA",
+          "words": 89
+        },
+        {
+          "level": "AAA",
+          "words": 132
+        },
+        {
+          "level": "AAAA",
+          "words": 164
+        }
+      ]
+    },
+    {
+      "id": "orchard",
+      "title": "Two Baskets, Two Jobs",
+      "image": "assets/orchard.webp",
+      "alt": "an orchard grower and children picking and sorting apples",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 37
+        },
+        {
+          "level": "A",
+          "words": 75
+        },
+        {
+          "level": "AA",
+          "words": 103
+        },
+        {
+          "level": "AAA",
+          "words": 143
+        },
+        {
+          "level": "AAAA",
+          "words": 165
+        }
+      ]
+    },
+    {
+      "id": "bus-driver",
+      "title": "Room to Board",
+      "image": "assets/bus-driver.webp",
+      "alt": "a city bus driver welcoming a wheelchair passenger on a boarding ramp",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 31
+        },
+        {
+          "level": "A",
+          "words": 69
+        },
+        {
+          "level": "AA",
+          "words": 110
+        },
+        {
+          "level": "AAA",
+          "words": 140
+        },
+        {
+          "level": "AAAA",
+          "words": 165
+        }
+      ]
+    },
+    {
+      "id": "guide-dog",
+      "title": "Milo Knows the Way",
+      "image": "assets/guide-dog.webp",
+      "alt": "a person and her working guide dog approaching boxes on a city path",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 34
+        },
+        {
+          "level": "A",
+          "words": 68
+        },
+        {
+          "level": "AA",
+          "words": 101
+        },
+        {
+          "level": "AAA",
+          "words": 131
+        },
+        {
+          "level": "AAAA",
+          "words": 155
+        }
+      ]
+    },
+    {
+      "id": "pilot",
+      "title": "The Longer Line on the Map",
+      "image": "assets/pilot.webp",
+      "alt": "airline pilots reviewing a weather chart in a parked aircraft",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 39
+        },
+        {
+          "level": "A",
+          "words": 66
+        },
+        {
+          "level": "AA",
+          "words": 105
+        },
+        {
+          "level": "AAA",
+          "words": 139
+        },
+        {
+          "level": "AAAA",
+          "words": 166
+        }
+      ]
+    },
+    {
+      "id": "cafe-bakery",
+      "title": "The Bag with the Yellow Ribbon",
+      "image": "assets/cafe-bakery.webp",
+      "alt": "a café and bakery owner working beside a baker and fresh bread",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 41
+        },
+        {
+          "level": "A",
+          "words": 73
+        },
+        {
+          "level": "AA",
+          "words": 105
+        },
+        {
+          "level": "AAA",
+          "words": 142
+        },
+        {
+          "level": "AAAA",
+          "words": 167
+        }
+      ]
+    },
+    {
+      "id": "scuba",
+      "title": "The Photograph Worth Waiting For",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/shallow-dive.webp",
+      "alt": "An adult scuba instructor supervises two children during a beginner lesson in clear shallow water above a sandy seabed. All have coherent fitted scuba gear, masks, regulators and air tanks. Sunlight reaches the visible bottom. Calm close supervision, no animals touched and no deep-water danger.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 38
+        },
+        {
+          "level": "A",
+          "words": 71
+        },
+        {
+          "level": "AA",
+          "words": 104
+        },
+        {
+          "level": "AAA",
+          "words": 147
+        },
+        {
+          "level": "AAAA",
+          "words": 164
+        }
+      ]
+    },
+    {
+      "id": "pet-rescue",
+      "title": "The Dog at the Closed Gate",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/dog-water.webp",
+      "alt": "A child with a tan complexion pours fresh water from a small jug into a nearly full metal dog bowl on a shady garden path. A happy golden dog stands beside the bowl with its tongue out, ready for a drink. A coiled lead and closed garden gate appear behind them.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 42
+        },
+        {
+          "level": "A",
+          "words": 83
+        },
+        {
+          "level": "AA",
+          "words": 122
+        },
+        {
+          "level": "AAA",
+          "words": 157
+        },
+        {
+          "level": "AAAA",
+          "words": 174
+        }
+      ]
+    },
+    {
+      "id": "animal-rescue",
+      "title": "A Quiet Path for a Duckling",
+      "image": "assets/animal-rescue.webp",
+      "alt": "animal rescuers releasing a duckling beside its family at a pond",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 39
+        },
+        {
+          "level": "A",
+          "words": 75
+        },
+        {
+          "level": "AA",
+          "words": 110
+        },
+        {
+          "level": "AAA",
+          "words": 151
+        },
+        {
+          "level": "AAAA",
+          "words": 181
+        }
+      ]
+    },
+    {
+      "id": "robot",
+      "title": "The Delivery That Went in Circles",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/robot-partners.webp",
+      "alt": "Nia, a Black girl with braided hair, and Arjun, a South Asian boy with glasses, check their small wheeled classroom robot on a table. Arjun reconnects a loose low-voltage plug while Nia watches a green indicator light glow. A delighted teacher stands behind. No exposed mains wiring, no labels.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 36
+        },
+        {
+          "level": "A",
+          "words": 69
+        },
+        {
+          "level": "AA",
+          "words": 99
+        },
+        {
+          "level": "AAA",
+          "words": 145
+        },
+        {
+          "level": "AAAA",
+          "words": 168
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "A Place for the Toy Ambulance",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/model-bridge.webp",
+      "alt": "Lina, an East Asian girl with a yellow top, and Andre, a Black boy in a blue jumper, carefully align craft sticks to make a small model bridge on their classroom table. Their completed bridge spans two supports. A ruler, child-safe glue and a few spare sticks lie neatly nearby.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 33
+        },
+        {
+          "level": "A",
+          "words": 72
+        },
+        {
+          "level": "AA",
+          "words": 101
+        },
+        {
+          "level": "AAA",
+          "words": 145
+        },
+        {
+          "level": "AAAA",
+          "words": 166
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "title": "A Story Without Words",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/library-friends.webp",
+      "alt": "Sofia, a girl with medium-brown skin and a green cardigan, chooses a book with a colourful picture-only cover and places it on a clear library table. A friend wearing a lavender hijab reads quietly beside her. Warm low shelves, a calm reading nook and no readable lettering on spines or pages.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 40
+        },
+        {
+          "level": "A",
+          "words": 72
+        },
+        {
+          "level": "AA",
+          "words": 107
+        },
+        {
+          "level": "AAA",
+          "words": 146
+        },
+        {
+          "level": "AAAA",
+          "words": 162
+        }
+      ]
+    },
+    {
+      "id": "kite",
+      "title": "More Than the Highest Kite",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/kite-field.webp",
+      "alt": "Asha, a South Asian girl in a coral jacket, and Jamal, a Black boy in teal trousers, share a reel of string in a broad grassy field. Their colourful diamond kite is visibly airborne above them with its string connected to the reel. A small picnic basket and folded blanket sit off to one side. Breezy clouds and open space.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 38
+        },
+        {
+          "level": "A",
+          "words": 70
+        },
+        {
+          "level": "AA",
+          "words": 106
+        },
+        {
+          "level": "AAA",
+          "words": 159
+        },
+        {
+          "level": "AAAA",
+          "words": 170
+        }
+      ]
+    },
+    {
+      "id": "trail-map",
+      "title": "The Bridge on Yesterday's Map",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/trail-map.webp",
+      "alt": "Two young hikers rest on a fallen log in the shelter of a large rock beside a woodland trail. A girl with dark curly hair points along a clear route on an unfolded map while a blond boy holds binoculars. Water bottles and backpacks rest beside them. A small deer is far away on the hillside. The rock shelters them from the breeze.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 36
+        },
+        {
+          "level": "A",
+          "words": 77
+        },
+        {
+          "level": "AA",
+          "words": 103
+        },
+        {
+          "level": "AAA",
+          "words": 154
+        },
+        {
+          "level": "AAAA",
+          "words": 171
+        }
+      ]
+    },
+    {
+      "id": "picnic",
+      "title": "A Menu Everyone Could Use",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/park-picnic.webp",
+      "alt": "Two friends, a girl with light-brown skin and glasses and a boy with black hair, sit on a clearly spread yellow picnic blanket in a green park. A woven picnic basket sits between their bags. Lunch containers and apple slices are on the blanket. A level grassy patch beside a broad park path.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 39
+        },
+        {
+          "level": "A",
+          "words": 75
+        },
+        {
+          "level": "AA",
+          "words": 106
+        },
+        {
+          "level": "AAA",
+          "words": 158
+        },
+        {
+          "level": "AAAA",
+          "words": 169
+        }
+      ]
+    },
+    {
+      "id": "glider",
+      "title": "The Invitation That Landed in a Bush",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/paper-gliders.webp",
+      "alt": "Ben, a red-haired boy, and Maya, a girl with dark braids, test two plain paper gliders on an open grassy lawn. One glider has drifted gently into a low bush while the other rests in Maya's hand. Ben walks toward the bush to retrieve the glider. A coherent outdoor scene with both gliders easy to see.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 33
+        },
+        {
+          "level": "A",
+          "words": 67
+        },
+        {
+          "level": "AA",
+          "words": 109
+        },
+        {
+          "level": "AAA",
+          "words": 142
+        },
+        {
+          "level": "AAAA",
+          "words": 164
+        }
+      ]
+    },
+    {
+      "id": "fossil",
+      "title": "The Stone with a Spiral",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/museum-fossil.webp",
+      "alt": "An adult museum guide shows a large spiral fossil in a low glass display case to a small group of fascinated children. One child uses a manual wheelchair and has a clear view beside the other visitors. A skeleton exhibit is softly visible behind them. No labels or readable signage.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 40
+        },
+        {
+          "level": "A",
+          "words": 74
+        },
+        {
+          "level": "AA",
+          "words": 112
+        },
+        {
+          "level": "AAA",
+          "words": 154
+        },
+        {
+          "level": "AAAA",
+          "words": 172
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "title": "A Solar System That Fit on a Table",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/space-club.webp",
+      "alt": "A diverse group of three children in an after-school space club gathers around a tabletop solar-system model. They point to small colourful planets attached to thin supports around a large central sun. Warm classroom, thoughtful curious expressions, no printed labels or floating text.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 37
+        },
+        {
+          "level": "A",
+          "words": 77
+        },
+        {
+          "level": "AA",
+          "words": 113
+        },
+        {
+          "level": "AAA",
+          "words": 154
+        },
+        {
+          "level": "AAAA",
+          "words": 180
+        }
+      ]
+    },
+    {
+      "id": "invitation",
+      "title": "The Invitation Missing One Thing",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/classroom-writing.webp",
+      "alt": "Lina, an East Asian girl in a mustard cardigan, sits at a clear classroom desk. Her open notebook and pencil are prominent as she begins writing. A closed schoolbag is beside the desk. Unreadable small pencil marks only, no printed words.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 42
+        },
+        {
+          "level": "A",
+          "words": 68
+        },
+        {
+          "level": "AA",
+          "words": 102
+        },
+        {
+          "level": "AAA",
+          "words": 149
+        },
+        {
+          "level": "AAAA",
+          "words": 177
+        }
+      ]
+    },
+    {
+      "id": "snowman",
+      "title": "The Snow Friend Who Leaned",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/snowman.webp",
+      "alt": "Two children in warm coats, gloves and boots roll a very large snowball across level snow to build a snowman. A smaller ball waits nearby, with a carrot and two plain pebbles in a basket. The giant lower ball is clearly much larger than their smaller snowballs. Joyful sunny winter park.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 32
+        },
+        {
+          "level": "A",
+          "words": 68
+        },
+        {
+          "level": "AA",
+          "words": 106
+        },
+        {
+          "level": "AAA",
+          "words": 145
+        },
+        {
+          "level": "AAAA",
+          "words": 172
+        }
+      ]
+    },
+    {
+      "id": "sandcastle",
+      "title": "A Gate for the Sea",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/sandcastle-team.webp",
+      "alt": "Mei, an East Asian girl with straight black hair and a sun hat, carries two small buckets full of damp sand toward a sandcastle. Her friend shapes a castle wall nearby. Gentle sea in the background, sunny beach, sensible sun protection and an adult supervising from nearby.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 34
+        },
+        {
+          "level": "A",
+          "words": 72
+        },
+        {
+          "level": "AA",
+          "words": 106
+        },
+        {
+          "level": "AAA",
+          "words": 145
+        },
+        {
+          "level": "AAAA",
+          "words": 169
+        }
+      ]
+    },
+    {
+      "id": "pony",
+      "title": "Before the Shiny Ribbon",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/pony-care.webp",
+      "alt": "Priya, a South Asian girl wearing a fitted riding helmet and closed riding boots, gently brushes a calm brown pony's bare back in a stable aisle. An adult instructor holds the pony's lead rope. A saddle waits separately on a stand, clearly not yet on the pony. Warm calm light.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 35
+        },
+        {
+          "level": "A",
+          "words": 77
+        },
+        {
+          "level": "AA",
+          "words": 115
+        },
+        {
+          "level": "AAA",
+          "words": 152
+        },
+        {
+          "level": "AAAA",
+          "words": 186
+        }
+      ]
+    },
+    {
+      "id": "rock-pool",
+      "title": "The Souvenir That Walked",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/rock-pools.webp",
+      "alt": "Two children crouch beside shallow seawater pools between flat coastal rocks at low tide. They look closely at a tiny crab and shells without touching or disturbing them. An attentive adult guide is beside them. Non-slip shoes, stable rock surfaces and gentle daylight.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 36
+        },
+        {
+          "level": "A",
+          "words": 71
+        },
+        {
+          "level": "AA",
+          "words": 107
+        },
+        {
+          "level": "AAA",
+          "words": 150
+        },
+        {
+          "level": "AAAA",
+          "words": 166
+        }
+      ]
+    },
+    {
+      "id": "towel",
+      "title": "The Towel That Looked Ready",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/wet-towel.webp",
+      "alt": "A child at a sunny woodland campsite lifts a visibly wet towel from a washing bowl. Water drips from the towel onto the grass as a second child points to a nearby drying line. A tent and a small wash station in the background, one clear everyday action.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 39
+        },
+        {
+          "level": "A",
+          "words": 71
+        },
+        {
+          "level": "AA",
+          "words": 110
+        },
+        {
+          "level": "AAA",
+          "words": 144
+        },
+        {
+          "level": "AAAA",
+          "words": 172
+        }
+      ]
+    },
+    {
+      "id": "station",
+      "title": "The Train That Passed Their Stop",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/station-visit.webp",
+      "alt": "A family waits together well behind the safety line on a railway platform. An adult conductor checks a child's plain ticket in the foreground while a bright passenger train approaches around a distant curve. Clear safe platform edge and coherent rails. No readable signs, numbers or ticket print.",
+      "versions": [
+        {
+          "level": "Pre-A",
+          "words": 37
+        },
+        {
+          "level": "A",
+          "words": 76
+        },
+        {
+          "level": "AA",
+          "words": 108
+        },
+        {
+          "level": "AAA",
+          "words": 151
+        },
+        {
+          "level": "AAAA",
+          "words": 176
+        }
+      ]
+    }
+  ]
+}

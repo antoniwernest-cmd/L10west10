@@ -1,0 +1,210 @@
+{
+  "checkedOn": "2026-11-01",
+  "storyPicturesOnIndex": 30,
+  "pictures": [
+    {
+      "id": "cenote",
+      "title": "The Light Below",
+      "path": "assets/cenote.webp"
+    },
+    {
+      "id": "mechanic",
+      "title": "The Squeak in the Blue Car",
+      "path": "assets/mechanic.webp"
+    },
+    {
+      "id": "dentist",
+      "title": "The Tiny Mirror",
+      "path": "assets/dentist.webp"
+    },
+    {
+      "id": "city-gardener",
+      "title": "The Thirsty Corner",
+      "path": "assets/city-gardener.webp"
+    },
+    {
+      "id": "ferry",
+      "title": "The Last Bicycle",
+      "path": "assets/ferry.webp"
+    },
+    {
+      "id": "window-washers",
+      "title": "The Mark That Would Not Wash Away",
+      "path": "assets/window-washers.webp"
+    },
+    {
+      "id": "orchard",
+      "title": "Two Baskets, Two Jobs",
+      "path": "assets/orchard.webp"
+    },
+    {
+      "id": "bus-driver",
+      "title": "Room to Board",
+      "path": "assets/bus-driver.webp"
+    },
+    {
+      "id": "guide-dog",
+      "title": "Milo Knows the Way",
+      "path": "assets/guide-dog.webp"
+    },
+    {
+      "id": "pilot",
+      "title": "The Longer Line on the Map",
+      "path": "assets/pilot.webp"
+    },
+    {
+      "id": "cafe-bakery",
+      "title": "The Bag with the Yellow Ribbon",
+      "path": "assets/cafe-bakery.webp"
+    },
+    {
+      "id": "scuba",
+      "title": "The Photograph Worth Waiting For",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/shallow-dive.webp"
+    },
+    {
+      "id": "pet-rescue",
+      "title": "The Dog at the Closed Gate",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/dog-water.webp"
+    },
+    {
+      "id": "animal-rescue",
+      "title": "A Quiet Path for a Duckling",
+      "path": "assets/animal-rescue.webp"
+    },
+    {
+      "id": "robot",
+      "title": "The Delivery That Went in Circles",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/robot-partners.webp"
+    },
+    {
+      "id": "bridge",
+      "title": "A Place for the Toy Ambulance",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/model-bridge.webp"
+    },
+    {
+      "id": "library",
+      "title": "A Story Without Words",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/library-friends.webp"
+    },
+    {
+      "id": "kite",
+      "title": "More Than the Highest Kite",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/kite-field.webp"
+    },
+    {
+      "id": "trail-map",
+      "title": "The Bridge on Yesterday's Map",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/trail-map.webp"
+    },
+    {
+      "id": "picnic",
+      "title": "A Menu Everyone Could Use",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/park-picnic.webp"
+    },
+    {
+      "id": "glider",
+      "title": "The Invitation That Landed in a Bush",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/paper-gliders.webp"
+    },
+    {
+      "id": "fossil",
+      "title": "The Stone with a Spiral",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/museum-fossil.webp"
+    },
+    {
+      "id": "space",
+      "title": "A Solar System That Fit on a Table",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/space-club.webp"
+    },
+    {
+      "id": "invitation",
+      "title": "The Invitation Missing One Thing",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/classroom-writing.webp"
+    },
+    {
+      "id": "snowman",
+      "title": "The Snow Friend Who Leaned",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/snowman.webp"
+    },
+    {
+      "id": "sandcastle",
+      "title": "A Gate for the Sea",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/sandcastle-team.webp"
+    },
+    {
+      "id": "pony",
+      "title": "Before the Shiny Ribbon",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/pony-care.webp"
+    },
+    {
+      "id": "rock-pool",
+      "title": "The Souvenir That Walked",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/rock-pools.webp"
+    },
+    {
+      "id": "towel",
+      "title": "The Towel That Looked Ready",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/wet-towel.webp"
+    },
+    {
+      "id": "station",
+      "title": "The Train That Passed Their Stop",
+      "path": "../Reading-Adventures/Language-Adventures/assets/illustrations/station-visit.webp"
+    }
+  ],
+  "pictureRouteChecks": 1200,
+  "levels": 4,
+  "responseFormats": 10,
+  "textControls": [
+    "A−",
+    "A+",
+    "Fit"
+  ],
+  "savedTextPreferenceVerified": true,
+  "preferenceAndAnswersRetained": true,
+  "compactChoiceCards": true,
+  "layoutChecks": 712,
+  "layoutFailures": 0,
+  "maximumRequestedText": 42,
+  "interactionChecks": 40,
+  "mouseAndTouchDragVerified": true,
+  "returnAndRedrag": true,
+  "rotationVerified": true,
+  "shuffleRetainsProgress": true,
+  "keyboardSpaceTyping": true,
+  "gallerySizes": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "allThirtyPicturesReachable": true
+    },
+    {
+      "width": 1366,
+      "height": 657,
+      "allThirtyPicturesReachable": true
+    },
+    {
+      "width": 1024,
+      "height": 552,
+      "allThirtyPicturesReachable": true
+    },
+    {
+      "width": 768,
+      "height": 924,
+      "allThirtyPicturesReachable": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "allThirtyPicturesReachable": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "allThirtyPicturesReachable": true
+    }
+  ],
+  "method": "Installed desktop Chrome with emulated screen sizes and touch. Physical Chromebook and tablet hardware was unavailable.",
+  "errors": []
+}

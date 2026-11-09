@@ -1,0 +1,12 @@
+/* Soft fills on letter groups; no added spacing or font changes. */
+.phonics-pattern,.phonics-swatch{color:inherit;font:inherit;letter-spacing:inherit;border-radius:.16em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+#activity .phonics-pattern,#hint-dialog .phonics-pattern{display:inline;color:inherit;font:inherit;letter-spacing:inherit;padding:0;border:0;margin:0;box-shadow:none}
+.target.empty>.phonics-text{display:block;min-width:0;width:100%;overflow-wrap:anywhere}
+#activity .phonics-blend,#hint-dialog .phonics-blend{background-color:#deece7}
+#activity .phonics-digraph,#hint-dialog .phonics-digraph{background-color:#eee4f3}
+#activity .phonics-vowel,#hint-dialog .phonics-vowel{background-color:#f7ead5}
+.phonics-key{display:inline-flex;align-items:center;gap:5px;font:10px/1.2 "Century Gothic","Trebuchet MS",Arial,sans-serif;white-space:nowrap}
+.phonics-swatch{display:inline-block;padding:3px 5px}
+#level-note .phonics-key{font-size:10px}.response-heading>.phonics-key{margin-top:6px;font-size:10px}
+@media(max-height:480px){.response-heading>.phonics-key{margin-top:3px;font-size:8px}.phonics-swatch{padding:2px 4px}.phonics-key{gap:4px}#level-note .phonics-key{font-size:8px}}
+@media print{.phonics-pattern,.phonics-swatch{-webkit-print-color-adjust:exact;print-color-adjust:exact}.response-heading>.phonics-key{font-size:8px}}

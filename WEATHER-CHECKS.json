@@ -1,0 +1,1552 @@
+{
+  "topics": 30,
+  "questions": 60,
+  "answers": [
+    {
+      "id": "weather-A-1",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-2",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-3",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-4",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-5",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-6",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-7",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-8",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-9",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-10",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-11",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-12",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-13",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-14",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-15",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-16",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-17",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-18",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-19",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-20",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-21",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-22",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-23",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-24",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-25",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-26",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-27",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-28",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-29",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-A-30",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-1",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-2",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-3",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-4",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-5",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-6",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-7",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-8",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-9",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-10",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-11",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-12",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-13",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-14",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-15",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-16",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-17",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-18",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-19",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-20",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-21",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-22",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-23",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-24",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-25",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-26",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-27",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-28",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-29",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    },
+    {
+      "id": "weather-AA-30",
+      "retry": true,
+      "correct": true,
+      "hint": true,
+      "listening": true
+    }
+  ],
+  "layouts": [
+    {
+      "id": "weather-A-1",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-2",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-3",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-4",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-5",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-7",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-8",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-9",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-10",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-11",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-12",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-13",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-14",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-16",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-17",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-18",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-19",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-20",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-21",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-22",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-23",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-24",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-26",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-27",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-28",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-29",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-30",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-1",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-2",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-3",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-4",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-5",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-6",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-7",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-8",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-9",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-10",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-11",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-12",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-13",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-14",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-15",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-16",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-17",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-18",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-19",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-20",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-21",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-23",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-26",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-27",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-28",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-29",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-30",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1366,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1280,
+      "height": 720,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1024,
+      "height": 768,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 768,
+      "height": 1024,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 390,
+      "height": 844,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-25",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-6",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-A-15",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-25",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-24",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 844,
+      "height": 390,
+      "complete": false,
+      "issues": []
+    },
+    {
+      "id": "weather-AA-22",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    }
+  ],
+  "shuffle": [
+    {
+      "level": "A",
+      "orderChanges": true,
+      "creditAndHistoryPreserved": true,
+      "persists": true
+    },
+    {
+      "level": "AA",
+      "orderChanges": true,
+      "creditAndHistoryPreserved": true,
+      "persists": true
+    }
+  ],
+  "errors": [],
+  "resourceFailures": [],
+  "directEntry": true,
+  "nativeDownload": {
+    "filename": "Language-Lab-pencil-2026-10-29.xlsx",
+    "failure": "canceled"
+  },
+  "exportWorkbookGenerated": true,
+  "printPages": 1,
+  "galleryNewImages": 15,
+  "digraphAudioOnlyRegression": true,
+  "workbookChecks": {
+    "summaryRows": 17,
+    "progressRows": 481,
+    "weatherRows": 60,
+    "guideTotalCorrect": true
+  },
+  "longestQuestionPrintPages": 1
+}

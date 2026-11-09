@@ -1,0 +1,29 @@
+{
+  "checks": [
+    {
+      "width": 1366,
+      "height": 768,
+      "defaultAllAdventures": true,
+      "cards": 5
+    },
+    {
+      "width": 1024,
+      "height": 552,
+      "defaultAllAdventures": true,
+      "cards": 5
+    },
+    {
+      "width": 768,
+      "height": 924,
+      "defaultAllAdventures": true,
+      "cards": 5
+    }
+  ],
+  "errors": [],
+  "startNewReturnsToAllAdventures": true,
+  "reloadStaysOnAllAdventures": true,
+  "newStoryStartsEmpty": true,
+  "previousAssessmentPreserved": true,
+  "date": "2026-11-01",
+  "status": "passed"
+}

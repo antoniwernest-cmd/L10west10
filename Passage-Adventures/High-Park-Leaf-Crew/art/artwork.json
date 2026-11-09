@@ -1,0 +1,28 @@
+{
+  "generator": "Built-in ImageGen",
+  "assets": [
+    {
+      "files": [
+        "meeting.webp",
+        "tools.webp",
+        "rake.webp",
+        "garden.webp",
+        "winter.webp",
+        "park.webp"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE polished contact sheet artwork for a children's cloze reading activity, consisting of exactly six landscape vignettes in a precise 2-column by 3-row equal-tile grid (each tile approximately 3:2, overall roughly square). No border or gutters, no lettering, no numbers, no graphics over it; clearly separated hard straight panel edges halfway across and at each third vertically. Keep characters and actions well inside each panel so it can be cropped into six individual scene illustrations. Pixar-like stylized cinematic 3D family animation, warm expressive faces, cinematic soft fall light, tactile coats and leaves, maple-lined Toronto High Park residential neighbourhood, brick porches, late fall. Main cast consistent: Malik, a Black boy age 9 with short textured black hair and rust-orange jacket; Mei, an East Asian girl age 9 with straight black hair and teal jacket; Samir, a South Asian boy age 9 with warm brown skin, curly dark hair and mustard yellow jacket. Older neighbors Mrs. Chen, East Asian woman with a silver bob and plum vest, and Mr. D'Souza, an older South Asian man with short gray hair, glasses and a green cardigan. Top left: three kids hold a meeting around a porch table with Mrs. Chen, blank paper route map and pencil, autumn trees, porch. Top right: children gathering gloves, leaf bags, hand tools and rakes by a house with an adult; bikes and helmets visible to the side, as they decide to help before riding or playing. Middle left: Malik and Mei rake brilliant red and gold maple leaves off a front yard path into a pile, open plain yard bag, Mr. D'Souza cheers nearby. Middle right: Mei in teal and Mrs. Chen in plum gently remove wilted old annual flowers from the garden, bright green perennials remain, Samir holds a plain bucket. Bottom left: Mr. D'Souza and Malik fasten a burlap wind screen around stakes surrounding a small evergreen near the sidewalk and curb, breathable burlap barrier distinct from green tree, Samir and Mei carry light patio cushions and stack a lightweight chair by the shed. Bottom right: group at the High Park entrance with bicycles and helmets and a glimpse of park playground after they have finished, happy and a little tired. Believable physical tools and actions. Friendly, expressive, inclusive Canadian neighborhood, late-autumn palette. No text, no logo, no watermark."
+    },
+    {
+      "files": [
+        "games.webp"
+      ],
+      "prompt": "Use case: illustration-story. Create a single landscape illustration for High Park Leaf Crew, a late-autumn Toronto children's story. Pixar-like 3D family-film character animation, cinematic soft daylight, warmly expressive faces. In a leaf-strewn but safe flat back lawn in a maple-lined High Park residential street, show three friends age 9 with consistent clothing: Malik is a Black boy with short textured black hair and a rust-orange jacket, Mei is an East Asian girl with straight black hair and a teal jacket, and Samir is a South Asian boy with warm brown skin, curly dark hair and a mustard yellow jacket. Nearby, a smiling older East Asian woman, Mrs. Chen, has a silver bob and a plum vest. Show joyful garden cleanup play: Malik does a low playful jump into a small pile of dry red and gold maple leaves on soft grass, Mei follows a clearly visible winding maze formed by low rows of leaves and steps across a chalked course on an adjacent flat paved area, and Samir runs a gentle leaf relay carrying a handful of leaves toward an open green yard-waste bin. Emphasize coherent anatomy and believable hands, clear actions and an uncluttered foreground. Tactile leaves, golden maple trees, brick houses in the distance. Wide 3:2 framing, center the important action. No text, no logos, no watermarks."
+    },
+    {
+      "files": [
+        "opening.webp"
+      ],
+      "prompt": "Use case: illustration-story. Create a single wide children's book illustration in polished stylized 3D animation. Late autumn in a quiet residential neighbourhood near Toronto's High Park. A gray-haired older man wearing round glasses and a moss-green cardigan stands comfortably on his dry brick-house porch. He looks concerned, with a furrowed brow, as he gestures to the leaf-covered front path. Malik, a friendly Black boy with short textured hair and a rust-orange jacket, listens from beside the gate. The children’s book scene tells a simple problem: wet red and gold maple leaves cover the paving stones between the porch and gate, so the neighbour would like help raking. Both are standing safely and talking. Show the whole path as well as both characters’ expressive faces. Warm neighbourhood setting, diffused daylight, 3:2 landscape, original character design, no writing."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+.featured-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(5px, 1vw, 14px); }
+.featured-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.featured-row .high-park-feature {
+  grid-template-columns: minmax(70px, .8fr) minmax(0, 2.4fr) auto;
+}
+.featured-row .feature-title { font-size: clamp(16px, 2.65vw, 34px); }
+.featured-row .feature-subtitle { font-size: clamp(10px, 1.18vw, 14px); }
+.featured-row .candy-feature { background: #573459; border-color: #653d67; }
+.featured-row .candy-feature .feature-tag { background: #ffcf9d; }
+.featured-row .candy-feature .feature-link { color: #573459; }
+.candy-linked { grid-template-rows: auto auto auto minmax(0, 1fr) auto; }
+.skills-feature {
+  display: grid;
+  grid-template-columns: 60px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: clamp(6px, 1vw, 14px);
+  min-height: 48px;
+  padding: 4px 10px;
+  border: 1px solid #ceb5cd;
+  border-radius: 12px;
+  background: #faeaf1;
+  color: #513250;
+  text-decoration: none;
+}
+.skills-feature img { width: 60px; height: 42px; border-radius: 7px; object-fit: contain; }
+.skills-feature .skills-copy { display: grid; min-width: 0; }
+.skills-feature small { font-size: .62rem; font-weight: 800; letter-spacing: .08em; }
+.skills-feature strong { font-size: clamp(.92rem, 2vw, 1.35rem); line-height: 1.08; }
+.skills-feature .play { font-weight: 800; font-size: clamp(.72rem, 1.6vw, .95rem); white-space: nowrap; }
+.skills-feature:focus-visible { outline: 3px solid #b55743; outline-offset: 2px; }
+@media (max-width: 1000px) {
+  .featured-row .feature-subtitle { display: none; }
+  .featured-row .high-park-feature { grid-template-columns: minmax(54px, .7fr) minmax(0, 2fr) auto; }
+}
+@media (max-width: 690px) {
+  .featured-row .high-park-feature { grid-template-columns: minmax(39px, .55fr) minmax(0, 1.7fr); }
+  .featured-row .feature-link { display: none; }
+  .featured-row .feature-tag { font-size: clamp(8px, 1.8vw, 10px); padding-inline: 5px; }
+}
+@media (max-width: 400px) {
+  .featured-row .high-park-feature { grid-template-columns: 1fr; padding: 6px 8px; }
+  .featured-row .high-park-feature img { display: none; }
+}
+@media (max-height: 480px) {
+  .skills-feature { grid-template-columns: 44px minmax(0, 1fr) auto; min-height: 34px; padding-block: 2px; }
+  .skills-feature img { width: 44px; height: 30px; }
+}

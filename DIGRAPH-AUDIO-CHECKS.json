@@ -1,0 +1,427 @@
+{
+  "questions": 60,
+  "checks": [
+    {
+      "id": "digraph-A-1",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-2",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-3",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-4",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-5",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-6",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-7",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-8",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-9",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-10",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-11",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-12",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-13",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-14",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-15",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-16",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-17",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-18",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-19",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-20",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-21",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-22",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-23",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-24",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-25",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-26",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-27",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-28",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-29",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-A-30",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-1",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-2",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-3",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-4",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-5",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-6",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-7",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-8",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-9",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-10",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-11",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-12",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-13",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-14",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-15",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-16",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-17",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-18",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-19",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-20",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-21",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-22",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-23",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-24",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-25",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-26",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-27",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-28",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-29",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    },
+    {
+      "id": "digraph-AA-30",
+      "spokenWordOnly": true,
+      "targetNotDisplayed": true,
+      "hintAndFeedbackHideTarget": true,
+      "answerWorks": true
+    }
+  ],
+  "errors": [],
+  "viewportChecks": 5
+}

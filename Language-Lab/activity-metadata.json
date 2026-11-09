@@ -1,0 +1,50 @@
+{
+  "preposition": {
+    "name": "Preposition Paths",
+    "tag": "Place, time and direction",
+    "description": "Choose the word that shows where, when or which way.",
+    "tone": "sage"
+  },
+  "question": {
+    "name": "Question Quest",
+    "tag": "Ask the right question",
+    "description": "Use clues to choose who, what, where, when, why or how.",
+    "tone": "aqua"
+  },
+  "digraph": {
+    "name": "Digraph Detective",
+    "tag": "Two letters, one sound",
+    "description": "Listen to words and identify their consonant digraphs.",
+    "tone": "lilac"
+  },
+  "classroom": {
+    "name": "Classroom Coach",
+    "tag": "Words for learning together",
+    "description": "Choose clear, polite classroom words and requests.",
+    "tone": "peach"
+  },
+  "tense": {
+    "name": "Time-Travel Verbs",
+    "tag": "Yesterday, today and tomorrow",
+    "description": "Match action words to the time in a sentence.",
+    "tone": "aqua"
+  },
+  "link": {
+    "name": "Linking Words",
+    "tag": "Join ideas clearly",
+    "description": "Choose words that show reasons, results, choices and contrasts.",
+    "tone": "sage"
+  },
+  "grow": {
+    "name": "Grow a Sentence",
+    "tag": "Add useful details",
+    "description": "Drag phrases to add who, what, where, when and why.",
+    "tone": "peach"
+  },
+  "weather": {
+    "name": "Weather Watch",
+    "tag": "Explore weather words",
+    "description": "Use weather pictures and clues to name conditions, storms and forecasts.",
+    "tone": "aqua"
+  }
+}

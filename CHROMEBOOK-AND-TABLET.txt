@@ -1,0 +1,25 @@
+CHROMEBOOK AND TABLET USE
+
+Open the main index.html or the deployed website, then choose Passage Adventures.
+Keep the complete Adventures-Deployment folder together when copying or deploying.
+
+On smaller screens, use Story and Respond to switch views on the same page.
+The text, picture and tools resize to the available screen without scrolling.
+Mouse, trackpad and touch dragging are supported. Drag a card back to the bank to revise.
+On tablets, portrait and landscape are supported. Typing mode reflows when the keyboard opens.
+Listen starts reading; Stop ends it. Teacher voice settings apply in this browser.
+Use the same picture ID and browser for saved work. Progress stays on that device.
+Shuffle retains earned credit and answers. Teacher tools can export assessment to Excel.
+
+Checks used desktop Chrome with emulated Chromebook/tablet screen sizes and touch input.
+Physical Chromebooks, Android tablets and iPads were not available for hardware testing.
+Speech requests and Stop were checked; voices and speakers depend on the actual device.
+See CHROMEBOOK-TABLET-CHECKS.json for the test summary.
+
+November 1 update: every story picture is on the Passage Adventures index.
+Use A−, A+ and Fit in an activity to change text size. The preference saves in this browser.
+See READING-LAYOUT-CHECKS.json for the latest layout and interaction checks.
+
+Pre-A is available for every Passage Adventures story.
+Cloze opens on the gaps. Story review unlocks after a correct response.
+Latest five-level checks: PRE-A-CLOZE-CHECKS.json.

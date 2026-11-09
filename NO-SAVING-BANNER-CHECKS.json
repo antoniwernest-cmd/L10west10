@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "change": "Remove browser-storage warning overlays while continuing activity state in memory and attempting normal browser saves.",
+  "scriptsUpdated": 28,
+  "pagesWithFreshScriptVersion": 32,
+  "storageTest": "Storage.prototype.getItem and setItem deliberately throw SecurityError.",
+  "entryChecks": 100,
+  "activities": 50,
+  "entryViewports": [
+    "1366x657 Chromebook browser area",
+    "768x924 tablet portrait"
+  ],
+  "warningsCoveringButtons": 0,
+  "runtimeErrors": 0,
+  "interactionScenarios": [
+    {
+      "width": 1366,
+      "height": 657,
+      "lv": "A",
+      "touch": false,
+      "responseFormats": 10,
+      "storageBlocked": true,
+      "dragAndRedrag": true,
+      "lockButtonClickable": true,
+      "teacherReview": true,
+      "PNGgenerated": true
+    },
+    {
+      "width": 768,
+      "height": 924,
+      "lv": "Pre-A",
+      "touch": true,
+      "responseFormats": 10,
+      "storageBlocked": true,
+      "dragAndRedrag": true,
+      "lockButtonClickable": true,
+      "teacherReview": true,
+      "PNGgenerated": true
+    },
+    {
+      "width": 1024,
+      "height": 680,
+      "lv": "AAAA",
+      "touch": true,
+      "responseFormats": 10,
+      "storageBlocked": true,
+      "dragAndRedrag": true,
+      "lockButtonClickable": true,
+      "teacherReview": true,
+      "PNGgenerated": true
+    }
+  ],
+  "platformValidation": "Installed desktop Chrome; mouse input and CDP touch emulation. Physical Chromebook/iPad hardware and Safari were not used.",
+  "saving": "Existing saving is still attempted. Suppressing the warning does not grant browser storage permission."
+}

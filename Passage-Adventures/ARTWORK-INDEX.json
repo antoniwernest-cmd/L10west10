@@ -1,0 +1,217 @@
+{
+  "stories": 30,
+  "reusedScenes": 18,
+  "newScenes": 12,
+  "pictures": [
+    {
+      "story": "cenote",
+      "title": "The Light Below",
+      "image": "assets/cenote.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "edb1611853a1d60d8537524e8619761962d8a0afaeeafa2215c7dfe10eada7a7"
+    },
+    {
+      "story": "mechanic",
+      "title": "The Squeak in the Blue Car",
+      "image": "assets/mechanic.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "9553845be417e21d62674929b6af922fefa9db6403a0ff2f2699592eaf705192"
+    },
+    {
+      "story": "dentist",
+      "title": "The Tiny Mirror",
+      "image": "assets/dentist.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "e7089f843a735e12c60b8884d29d3220caa1cc991b7655b65f862792aa5ca746"
+    },
+    {
+      "story": "city-gardener",
+      "title": "The Thirsty Corner",
+      "image": "assets/city-gardener.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "5c44958c7ec4b328c74e6f0db9543a75433a612cf88de1731ba37ca0cc2e953c"
+    },
+    {
+      "story": "ferry",
+      "title": "The Last Bicycle",
+      "image": "assets/ferry.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "c84211392cfd55f3f7f3c2bafeeced1c516615e36bf7de55c1fe96c613e1d3c9"
+    },
+    {
+      "story": "window-washers",
+      "title": "The Mark That Would Not Wash Away",
+      "image": "assets/window-washers.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "cdac884da9bf988e5bd6736a04f8801cb0810b6e78c222165f7a11abe8a191b8"
+    },
+    {
+      "story": "orchard",
+      "title": "Two Baskets, Two Jobs",
+      "image": "assets/orchard.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "f10dff754a141b40b42da3440b6af553f102e4b5a94138a05706a25f313e0cdc"
+    },
+    {
+      "story": "bus-driver",
+      "title": "Room to Board",
+      "image": "assets/bus-driver.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "21732b1e829d237456bf84289534b80eb1fcbf34bde1952fb57014e1ed52a7c3"
+    },
+    {
+      "story": "guide-dog",
+      "title": "Milo Knows the Way",
+      "image": "assets/guide-dog.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "188c5b8b967e9cf16d2a76bd848d9f1a152d98b6cc217294a081886e4f0e9f16"
+    },
+    {
+      "story": "pilot",
+      "title": "The Longer Line on the Map",
+      "image": "assets/pilot.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "b0d99dc3b01a7a424f2324fcb5dab59b733cdbfbc8e4b7831ad8977c9f3580ca"
+    },
+    {
+      "story": "cafe-bakery",
+      "title": "The Bag with the Yellow Ribbon",
+      "image": "assets/cafe-bakery.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "e296abdcf566a53faa14ad53bf3cb7a7724425867cecbcf69b63b0df1309b8ef"
+    },
+    {
+      "story": "scuba",
+      "title": "The Photograph Worth Waiting For",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/shallow-dive.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "3c83d8e90fe10423e99c7a2620b9922191e724eb12229807dca199f4408d9fe2"
+    },
+    {
+      "story": "pet-rescue",
+      "title": "The Dog at the Closed Gate",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/dog-water.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "b110c16e12766a587c1cf7899417ef30607526b9f8c7575dabfb4e619727e3af"
+    },
+    {
+      "story": "animal-rescue",
+      "title": "A Quiet Path for a Duckling",
+      "image": "assets/animal-rescue.webp",
+      "kind": "New matching scene, built-in image_gen",
+      "sha256": "d044ba4f613847115c88f894855ed6067178c7201d689f6847404bb79b98dd07"
+    },
+    {
+      "story": "robot",
+      "title": "The Delivery That Went in Circles",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/robot-partners.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "bab2fea7d3cbfbaf4f0142a81a372b22d83d283906dc779a9da8b69e46c84497"
+    },
+    {
+      "story": "bridge",
+      "title": "A Place for the Toy Ambulance",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/model-bridge.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "65868ad9e60e8c3921a4fa6b9f8d8c4f12c4148bf407e8208012a11b1b25de08"
+    },
+    {
+      "story": "library",
+      "title": "A Story Without Words",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/library-friends.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "a5450f92b4d8ec05152ce2b379faeb21b32c459bcbb29ae2890fed65b106bd2c"
+    },
+    {
+      "story": "kite",
+      "title": "More Than the Highest Kite",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/kite-field.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "16287e7af669020b3716765df7ade04baabab1a57418b15d731e4a8bd905938c"
+    },
+    {
+      "story": "trail-map",
+      "title": "The Bridge on Yesterday's Map",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/trail-map.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "35f20df6b5154bd2d8ad446045ef0e2ca306b7c61d480a5731825634ce62dd92"
+    },
+    {
+      "story": "picnic",
+      "title": "A Menu Everyone Could Use",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/park-picnic.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "9607bf666a49cdce16f35aab3ba086d9fe155245449d8b6c47807adb0c406bcd"
+    },
+    {
+      "story": "glider",
+      "title": "The Invitation That Landed in a Bush",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/paper-gliders.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "e5f8aee7605a7e34d0e65870b8ad8ea8dbe00506f0f9537895dc0102b7df76a1"
+    },
+    {
+      "story": "fossil",
+      "title": "The Stone with a Spiral",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/museum-fossil.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "8dc8ef94ada0a9b4c49080372edf3dc69839db8790665638e570c98920238580"
+    },
+    {
+      "story": "space",
+      "title": "A Solar System That Fit on a Table",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/space-club.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "0f14b64671febea5c109e53580dbb19b610aa55b6a56deeb9069d66157ecf350"
+    },
+    {
+      "story": "invitation",
+      "title": "The Invitation Missing One Thing",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/classroom-writing.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "87626be7bfeda1f67cd9714114b02a61c60ecbaf622b49126efd86954461e447"
+    },
+    {
+      "story": "snowman",
+      "title": "The Snow Friend Who Leaned",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/snowman.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "4142d7559af2f036796f1e1bd000472ce81a641e69954d6297ae4a2338d1b746"
+    },
+    {
+      "story": "sandcastle",
+      "title": "A Gate for the Sea",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/sandcastle-team.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "115804e7a5d8bc0d7ed39ef1934ae8faceb9ff50f7f07cdbcab99000d9cbe9c8"
+    },
+    {
+      "story": "pony",
+      "title": "Before the Shiny Ribbon",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/pony-care.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "f6990f4f627c91ba0570cf9fed80532970d5c1b0a190c0adc4e4aae3f305c2d4"
+    },
+    {
+      "story": "rock-pool",
+      "title": "The Souvenir That Walked",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/rock-pools.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "d4a98b455f14fb1777e446d9c20df9c8d73839388ecdb3d463f8afaccf84e338"
+    },
+    {
+      "story": "towel",
+      "title": "The Towel That Looked Ready",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/wet-towel.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "fd04818a566dfab0dac3287b3244324e5f2993aea2d5ae2b776e811cbc1ca0dd"
+    },
+    {
+      "story": "station",
+      "title": "The Train That Passed Their Stop",
+      "image": "../Reading-Adventures/Language-Adventures/assets/illustrations/station-visit.webp",
+      "kind": "Reused existing Codex story artwork",
+      "sha256": "722a78d0e56b0917856f3423d8dcfcf2080a73c4406fbdc262d724b3d462bab4"
+    }
+  ]
+}

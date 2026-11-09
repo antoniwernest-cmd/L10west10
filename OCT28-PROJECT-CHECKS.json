@@ -1,0 +1,2548 @@
+{
+  "newActivities": 7,
+  "newQuestions": 420,
+  "shuffle": [
+    {
+      "activity": "autumn-build-word",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-choose-word",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-missing-letter",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-word-chains",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-read-match",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-blend-sounds",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-count-sounds",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-change-sound",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-delete-sound",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "autumn-first-sound",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-sentence-adventures-1",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-sentence-adventures-2",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-before-and-after",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-letter-writing",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-pronoun-detective",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-homophone-harbour",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-paragraph-builder",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "reading-meaning-master",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-short-vowels",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-word-endings",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-neighbour-master",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-blend-master",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-compound-master",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-control-panel",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-magic-cat-b",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-magic-cat-c",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-magic-cat",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-spelling-master",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-abc-sentences",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-grade-1-cvc",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-affirmations",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "skills-halloween-sentences",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-preposition",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-question",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-digraph",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-classroom",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-tense",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-link",
+      "visible": true,
+      "keepsHistory": true
+    },
+    {
+      "activity": "lab-grow",
+      "visible": true,
+      "keepsHistory": true
+    }
+  ],
+  "newInteractions": [
+    {
+      "game": "preposition",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "correct": true,
+      "retry": true,
+      "touch": false,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "correct": true,
+      "retry": false,
+      "touch": true,
+      "shufflePreservesCredit": true
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "correct": true,
+      "retry": false,
+      "touch": true,
+      "shufflePreservesCredit": true
+    }
+  ],
+  "layouts": [
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "grow",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/index.html",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/pictures.html",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/pictures.html",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/pictures.html",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/pictures.html",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "page": "Language-Lab/pictures.html",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "preposition",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "question",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "digraph",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "classroom",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "tense",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1280,
+      "height": 720,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "game": "link",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "state": "complete",
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "A",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "AA",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "A",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "AA",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "A",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "AA",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "A",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "AA",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "A",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "game": "grow-complete-preview",
+      "level": "AA",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "page": "gallery-search-new-artwork",
+      "issues": []
+    }
+  ],
+  "print": [
+    {
+      "game": "preposition",
+      "pages": 1
+    },
+    {
+      "game": "classroom",
+      "pages": 1
+    },
+    {
+      "game": "grow",
+      "pages": 1
+    }
+  ],
+  "errors": [],
+  "resources": {
+    "filesChecked": 177,
+    "missing": 0
+  },
+  "assessmentExport": {
+    "validXLSX": true,
+    "sheets": [
+      "Summary",
+      "Progress",
+      "Attempts",
+      "Guide"
+    ],
+    "progressRows": 421
+  },
+  "artwork": {
+    "existingLibrary": 461,
+    "newQuestionPictures": 109,
+    "newImagesGenerated": 0,
+    "referencePageImagesUsed": 0,
+    "hashesChecked": true
+  },
+  "contentAudit": {
+    "activities": 7,
+    "questions": 420,
+    "allAnswersOffered": true,
+    "allImageLinksPresent": true
+  },
+  "pictureLibrarySearch": true,
+  "existingShuffleProgress": [
+    {
+      "activity": "Letter-Writing",
+      "level": "A",
+      "keepsEarnedCredit": true,
+      "keepsTries": true,
+      "keepsAttemptHistory": true,
+      "fullDeckShuffled": true
+    },
+    {
+      "activity": "Letter-Writing",
+      "level": "AA",
+      "keepsEarnedCredit": true,
+      "keepsTries": true,
+      "keepsAttemptHistory": true,
+      "fullDeckShuffled": true
+    },
+    {
+      "activity": "Language-Adventures",
+      "level": "A",
+      "keepsEarnedCredit": true,
+      "keepsTries": true,
+      "keepsAttemptHistory": true,
+      "fullDeckShuffled": true
+    },
+    {
+      "activity": "Language-Adventures",
+      "level": "AA",
+      "keepsEarnedCredit": true,
+      "keepsTries": true,
+      "keepsAttemptHistory": true,
+      "fullDeckShuffled": true
+    }
+  ],
+  "dragRegression": {
+    "interactions": [
+      {
+        "activity": "letter",
+        "mouseReorder": true,
+        "touchReorder": true,
+        "clickDoesNotMove": true,
+        "invalidDropPreserved": true,
+        "incorrectThenCorrect": true,
+        "reloadAndEarnedCreditPreserved": true
+      },
+      {
+        "activity": "paragraph",
+        "bankToSlot": true,
+        "touchMoveAndReturn": true,
+        "reorder": true,
+        "replaceReturnsDisplacedSentence": true,
+        "clickDoesNotMove": true,
+        "incorrectThenCorrect": true,
+        "reloadPreserved": true
+      },
+      {
+        "otherActivitiesRender": true
+      }
+    ],
+    "layouts": [
+      {
+        "activity": "letter",
+        "width": 1366,
+        "height": 768,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1366,
+        "height": 768,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1366,
+        "height": 768,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "26.5px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1366,
+        "height": 768,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "24.5px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1280,
+        "height": 720,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1280,
+        "height": 720,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1280,
+        "height": 720,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "25.5px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1280,
+        "height": 720,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1024,
+        "height": 768,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1024,
+        "height": 768,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1024,
+        "height": 768,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "27px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 1024,
+        "height": 768,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "27px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 768,
+        "height": 1024,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 768,
+        "height": 1024,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 768,
+        "height": 1024,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 768,
+        "height": 1024,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 820,
+        "height": 1180,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 820,
+        "height": 1180,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 820,
+        "height": 1180,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 820,
+        "height": 1180,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "30px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 390,
+        "height": 844,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 390,
+        "height": 844,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 390,
+        "height": 844,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 390,
+        "height": 844,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 844,
+        "height": 390,
+        "level": "A",
+        "state": "start",
+        "item": 20,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 844,
+        "height": 390,
+        "level": "A",
+        "state": "complete",
+        "item": 20,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 844,
+        "height": 390,
+        "level": "AA",
+        "state": "start",
+        "item": 43,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "letter",
+        "width": 844,
+        "height": 390,
+        "level": "AA",
+        "state": "complete",
+        "item": 43,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1366,
+        "height": 768,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1366,
+        "height": 768,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1366,
+        "height": 768,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "23.5px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1366,
+        "height": 768,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1366,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1280,
+        "height": 720,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1280,
+        "height": 720,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1280,
+        "height": 720,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "20px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1280,
+        "height": 720,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1280,
+          720
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1024,
+        "height": 768,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1024,
+        "height": 768,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1024,
+        "height": 768,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 1024,
+        "height": 768,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          1024,
+          768
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 768,
+        "height": 1024,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 768,
+        "height": 1024,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 768,
+        "height": 1024,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 768,
+        "height": 1024,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          768,
+          1024
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 820,
+        "height": 1180,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 820,
+        "height": 1180,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 820,
+        "height": 1180,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 820,
+        "height": 1180,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "24px",
+        "bodyScroll": [
+          820,
+          1180
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 390,
+        "height": 844,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "16.5px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 390,
+        "height": 844,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "18px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 390,
+        "height": 844,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "14px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 390,
+        "height": 844,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "15px",
+        "bodyScroll": [
+          390,
+          844
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 844,
+        "height": 390,
+        "level": "A",
+        "state": "start",
+        "item": 25,
+        "issues": [],
+        "font": "13px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 844,
+        "height": 390,
+        "level": "A",
+        "state": "complete",
+        "item": 25,
+        "issues": [],
+        "font": "17.5px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 844,
+        "height": 390,
+        "level": "AA",
+        "state": "start",
+        "item": 28,
+        "issues": [],
+        "font": "12px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      },
+      {
+        "activity": "paragraph",
+        "width": 844,
+        "height": 390,
+        "level": "AA",
+        "state": "complete",
+        "item": 28,
+        "issues": [],
+        "font": "12.5px",
+        "bodyScroll": [
+          844,
+          390
+        ]
+      }
+    ],
+    "errors": [],
+    "contentPreserved": true,
+    "print": [
+      {
+        "activity": "letter",
+        "pages": 1
+      },
+      {
+        "activity": "paragraph",
+        "pages": 1
+      }
+    ]
+  },
+  "updated": "2026-10-28",
+  "totalLayoutChecks": 238
+}

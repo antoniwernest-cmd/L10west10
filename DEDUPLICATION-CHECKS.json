@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "scope": "Rebuilt Adventures-Deployment folder",
+  "activities": 50,
+  "passages": 150,
+  "responseActivities": 1500,
+  "removedProjectCopies": [
+    "Language1/",
+    "l2west2/"
+  ],
+  "sourceFilesAudited": 15543,
+  "sharedGroups": 360,
+  "logicalResourcePaths": 1057,
+  "identicalDuplicateFiles": 0,
+  "allUniqueOriginalPicturesAndSoundsRetained": true,
+  "unchangedDataAndCoreFiles": 29,
+  "staticReferencesMissing": 0,
+  "browser": {
+    "entryChecks": 100,
+    "viewports": [
+      "1366x657",
+      "768x924"
+    ],
+    "missingResources": 0,
+    "pageErrors": 0,
+    "interactiveScenarios": [
+      {
+        "width": 1366,
+        "height": 657,
+        "lv": "A",
+        "touch": false,
+        "responseFormats": 10,
+        "storageBlocked": true,
+        "dragAndRedrag": true,
+        "lockButtonClickable": true,
+        "teacherReview": true,
+        "PNGgenerated": true
+      },
+      {
+        "width": 768,
+        "height": 924,
+        "lv": "Pre-A",
+        "touch": true,
+        "responseFormats": 10,
+        "storageBlocked": true,
+        "dragAndRedrag": true,
+        "lockButtonClickable": true,
+        "teacherReview": true,
+        "PNGgenerated": true
+      },
+      {
+        "width": 1024,
+        "height": 680,
+        "lv": "AAAA",
+        "touch": true,
+        "responseFormats": 10,
+        "storageBlocked": true,
+        "dragAndRedrag": true,
+        "lockButtonClickable": true,
+        "teacherReview": true,
+        "PNGgenerated": true
+      }
+    ],
+    "extraChecks": {
+      "letterReordering": true,
+      "paragraphDragAndReturn": true,
+      "allThirtyStoryPictures": true,
+      "allAdventuresLanding": true,
+      "newStoryStartsEmpty": true,
+      "previousAssessmentPreserved": true,
+      "audio": true,
+      "Excel": true,
+      "PDF": true,
+      "PNG": true
+    }
+  },
+  "backupOutsideDeployment": "work/duplicate-audit-nov01/original-deployment",
+  "manifest": "DEPLOYMENT-MANIFEST.json",
+  "notes": "Shared images, sound files, CSS and JavaScript have one physical copy. The shared lookup preserves existing logical asset paths and offline use. All 50 activity entry URLs and existing browser progress keys are retained. Physical Chromebook/iPad hardware was not used; Chrome browser mouse and touch emulation were checked."
+}

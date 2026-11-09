@@ -1,0 +1,188 @@
+{
+  "created": "2026-10-28",
+  "mode": "Built-in image_gen",
+  "newScenes": 15,
+  "referencePageImagesUsed": false,
+  "pictures": [
+    {
+      "id": "partly-cloudy",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity scene for children. Create one polished Pixar-style 3D animated-film illustration, landscape 4:3, no words or labels. A young Black girl with short natural curls and a young East Asian boy in light jackets look up from a park path at a PARTLY CLOUDY sky. The sky fills the upper half: a clearly visible bright sun, blue sky and several separate soft white clouds, substantial clear gaps. Cheerful natural light, warm expressive faces, tactile rounded forms, clean uncluttered composition. Weather must be unmistakable. No logos, lettering, collage or panels.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-827065f0-d483-481e-88aa-3f447c7a45ff.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/partly-cloudy.webp",
+      "sha256": "92951ea9357e00091dbd7a471eb3de06de25346bc18a4f1f15e911de6c3c4cf5",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "overcast",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. An Arab boy and a white girl with auburn hair in light coats stand on a quiet park path. A thick unbroken blanket of low grey cloud covers the ENTIRE sky, soft flat light, no blue gaps, no sun, no rain. Sky takes upper half. Clearly overcast and cloudy. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-d0792b96-74fb-41dc-8dc6-8fa2e108375f.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/overcast.webp",
+      "sha256": "94f8639f0247b380edde28541412ba7dd1523578e829af6a1be80cf9379107f1",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "drizzle",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A South Asian girl in yellow raincoat holds a small umbrella on a garden path. Very fine light drizzle hangs in the air, sparse tiny droplets visible near dark leaves, pavement lightly wet, no large splashes or torrent. Soft grey sky, trees still clearly visible. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-2a684cd5-fa9b-4184-b2a5-8ccbad22c7e3.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/drizzle.webp",
+      "sha256": "8586773a71c9ecb73199b98bb135535ddb9d8fc26752a895109f2e4457b2f7bd",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "fog",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A Black boy and an East Asian girl in bright coats stand on a nearby park path beside a wooden fence. Dense pale fog hides the distant trees, which fade into almost invisible silhouettes. Children in foreground sharp, background low visibility; no rain or snow. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-4d7de4d5-dba0-469f-9bb6-412ce23c651c.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/fog.webp",
+      "sha256": "396207f7af7bdbc584487e82d652e8734441fc6ed9e1d994b4aa2af50dec01a0",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "storm",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A South Asian girl and a Black boy watch safely INSIDE a house through a large CLOSED window. Outside, dark thunderstorm clouds, slanting heavy rain and a clear distant fork of lightning. The indoor room is warm and reassuring. Outdoor weather fills most of image, wide view. No child outside. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-0fa31f4d-fc47-4781-a6ac-0e1d30e7c35c.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/storm.webp",
+      "sha256": "cf0e7ce5b0d98cf01bde78dce13f5d8bb9138f78ba8cfa613f84477597b36a44",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "hail",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A Black girl with braided pigtails and a white boy with freckles watch safely from INSIDE through a CLOSED kitchen window. Outside, pea-sized white ice balls are bouncing off a patio and collecting on green grass. Close foreground ice balls are unmistakably rounded hailstones, not snowflakes. Grey clouds. No lightning required. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-7afa5919-4792-44b0-a0e9-7e011d7826ea.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/hail.webp",
+      "sha256": "b31893df80d0c950157d26d23d96034155a6784cfa960897e83153ff7e6197fe",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "sleet",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. An East Asian girl and a Latino boy watch safely from INSIDE through a CLOSED window at winter sleet: tiny translucent ice pellets mixed with rain falling on a path and bare garden, a thin layer of granular ice, not fluffy snow. Close detailed pellets near the window. Muted cold grey atmosphere. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-f7d01788-6861-4aeb-898d-c191bc09330e.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/sleet.webp",
+      "sha256": "2daf135a0c502c5daf4037312f60e4b5e5c52b2f2ad98059c12846317b5234be",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "blizzard",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A brown-skinned girl with curly hair and an East Asian boy in cosy indoor sweaters watch safely through a CLOSED living room window. Outside a strong snowstorm blows snow sideways, wind-driven white swirls, deep drifts, distant trees almost hidden by blowing snow. Warm interior at edge, weather fills most of frame. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-c5f15b2e-c35f-47bd-bf18-a7c27662f02f.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/blizzard.webp",
+      "sha256": "a5f94ec868b69f222b7f69a95535a68884b8c232d5c2172237e457569ef41585",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "frost",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A young Arab girl with curly dark hair, a Black boy in warm gloves, and a white child with freckles in warm coats observe a garden early in the morning. Crisp white frost crystals coat individual leaves and a wooden fence; a shallow puddle is frozen solid with reflective ice. Blue cold morning light, no falling snow. Frost close and sharp. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-f0f7fd8c-6527-4fae-984b-2f5298b9ed7a.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/frost.webp",
+      "sha256": "6f957179704785f1792367c9395e4491ceca23646c0a18e02b0667ae87a39e9a",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "heat",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film scene, landscape 4:3. A South Asian boy and a white girl with a sun hat sit resting in deep shade under a park shelter, with refillable water bottles. Beyond the shade the intense high sun lights a dry parched garden, slightly drooping plants and dusty cracked soil. Show hot summer heat clearly. Children are comfortable taking a break, no distress. Rounded tactile forms, expressive diverse children age 6-9, clear educational weather cues. No text, letters, numbers, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-19f874bf-afd4-47b7-9c12-6d72f4b775b1.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/heat.webp",
+      "sha256": "e2652c282783009f992bc322040395a5adf2114e80f8b02918dad829d26ed0c6",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "humid",
+      "prompt": "Use case: illustration-story. Asset type: children's weather vocabulary learning game. Create one polished Pixar-style 3D animated-film illustration, landscape 4:3. A fully clothed Black child in a loose cotton shirt and a Latino child in a t-shirt and shorts sit on a shaded garden porch, each holding a folded paper fan. Dense tropical foliage, glistening leaves and soft warm haze suggest humid summer air. Calm friendly family learning illustration, comfortable children, no distress. Tactile rounded forms, diverse friendly cast, clear weather cues. No lettering, labels, logos, collage or decorative panels.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-21528cf6-5183-4070-a9ef-b7a024442262.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/humid.webp",
+      "sha256": "3c9b19a9dc1a8be85ff454f99836ae7ef11ceae6c924012832b979a023ad0398",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "rainbow",
+      "prompt": "Use case: illustration-story. Asset type: children's weather vocabulary learning game. Create one polished Pixar-style 3D animated-film illustration, landscape 4:3. An East Asian girl in everyday clothes using a child-sized wheelchair and a Black boy in a light jacket look at a brilliant single rainbow across a green park after rain. Accessible flat path with puddles, sun breaking through clouds. Rainbow fills upper half of scene, red outer band violet inner band. Tactile rounded forms, diverse friendly cast, clear weather cues. No lettering, labels, logos, collage or decorative panels.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-2d4be2dd-b8de-49ff-bc43-56b95692ce13.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/rainbow.webp",
+      "sha256": "ba5495a249af21c1f91c00967a42b222ba2d3bff695368b394d581b373c2d96e",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "forecast",
+      "prompt": "Use case: illustration-story. Asset type: children's weather vocabulary learning game. Create one polished Pixar-style 3D animated-film illustration, landscape 4:3. A brown-skinned girl with curly hair and an East Asian boy, both fully clothed in colourful everyday outfits, study a large home weather forecast board. Three large columns each show one simple symbol: sun, cloud, rain cloud. No text or numbers anywhere. Bright welcoming learning nook, weather symbols large and clear. Tactile rounded forms, diverse friendly cast, clear weather cues. No lettering, labels, logos, collage or decorative panels.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-2b95b5b5-2cd4-4ed1-8e34-e69d03a66fdf.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/forecast.webp",
+      "sha256": "bd7058e45d3fc6c4ea91a89f0839a800d9f6027549a0ea52e8711ec6730ca595",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "snowfall",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film illustration, landscape 4:3. A Black boy in a bright blue winter coat and a South Asian girl in a purple winter coat, hats and mittens, stand on a level garden path enjoying light snow flurries. Several individual fluffy six-armed snowflakes are visibly falling against darker evergreen trees, a light blanket of soft snow on ground. No windstorm, distant trees clear, calm grey winter sky. Tactile rounded forms, expressive diverse children age 6-9, child-friendly clear snowy weather. No text, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-517b6aaa-56df-43e3-9522-f603b3c386ce.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/snowfall.webp",
+      "sha256": "fc081460f6f727a0c5643fb52756bc5a37a880d40ee9171db6e2fdef576a21de",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "mist",
+      "prompt": "Use case: illustration-story. Asset type: weather vocabulary activity. One polished Pixar-style 3D animated-film illustration, landscape 4:3. A young Latino girl with dark curls and a young East Asian boy in light jackets stand on a lakeside path on a cool morning. A thin delicate veil of pale mist floats low above the lake and distant grass; trees and boathouse remain clearly visible through the light haze. Close foreground children sharp and cheerful. Gentle silver-blue light. Clearly LIGHT mist, not dense fog, no falling rain, no snow. Tactile rounded forms, expressive diverse children age 6-9. No text, logos, captions, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-84ed44d7-3110-446a-be5e-ca8c613aab98.png",
+      "tool": "built-in image_gen",
+      "image": "assets/weather/mist.webp",
+      "sha256": "bc296fec85ed117d324c55334bfd744690f4dbaca70993a4953377f7dac7430a",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    }
+  ]
+}

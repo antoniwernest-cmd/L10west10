@@ -1,0 +1,89 @@
+{
+  "mode": "Built-in image_gen",
+  "pictures": [
+    {
+      "id": "cenote",
+      "prompt": "One original landscape 4:3 Pixar-style 3D animated-film environment illustration for a children's reading story: a serene turquoise cenote in a limestone cavern, a round natural opening in the roof admits a shaft of sunlight, long green vines hang from the rim, their shadows fall across the clear water. A sturdy visitor boardwalk with complete wooden railings runs along the near edge. Beautiful inviting nature exploration setting, no people needed, clean cinematic composition, detailed tactile rock, bright gentle light. No words, signs, captions, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-c409f30b-dd1f-4e25-a737-ca166cc31d24.png",
+      "image": "assets/cenote.webp",
+      "sha256": "edb1611853a1d60d8537524e8619761962d8a0afaeeafa2215c7dfe10eada7a7"
+    },
+    {
+      "id": "mechanic",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A South Asian woman car mechanic in navy work clothes and safety glasses uses a hand-held torch to inspect a worn belt under the open bonnet of a stationary small blue car in a clean garage. A Black boy and an East Asian girl with an adult visitor watch from the marked visitor area. Engine off, car on floor, no lift. A new belt and tidy hand tools sit on a nearby bench. Show the professional mechanic clearly. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-1acac335-8c48-49f3-bdcc-199608621ec2.png",
+      "image": "assets/mechanic.webp",
+      "sha256": "9553845be417e21d62674929b6af922fefa9db6403a0ff2f2699592eaf705192"
+    },
+    {
+      "id": "dentist",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A friendly Black woman dentist with a mask lowered away from her face holds a large plastic tooth model and a small dental mirror, explaining them to a young East Asian girl seated upright in a dental chair and her South Asian father. Bright calm dental clinic, no treatment taking place, no exposed gums or scary instruments. Child looks curious and reassured. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-dbac123c-f900-4263-a1ab-76e8b5cf409c.png",
+      "image": "assets/dentist.webp",
+      "sha256": "e7089f843a735e12c60b8884d29d3220caa1cc991b7655b65f862792aa5ca746"
+    },
+    {
+      "id": "city-gardener",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A Latina city gardener in work overalls and a straw hat inspects soil in a large raised planter beside a downtown pavement. A Black girl and an East Asian boy help put mulch around young plants while an adult volunteer steadies a watering can. Apartment buildings and a passing bicycle in background. One plant in a windy corner droops slightly, other plants healthy. Clear urban community garden. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-4dfef486-9a7d-4e7a-b8f6-a0f0a9a9a4c6.png",
+      "image": "assets/city-gardener.webp",
+      "sha256": "5c44958c7ec4b328c74e6f0db9543a75433a612cf88de1731ba37ca0cc2e953c"
+    },
+    {
+      "id": "ferry",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A Black woman ferry captain in a navy uniform and a Latino male deckhand welcome a diverse family onto a small harbour passenger ferry at a dock. Show a broad boarding ramp, railings, a modest enclosed wheelhouse, and a second harbour shore across calm water. The captain checks the ramp is clear before departure. People on dry deck, professional maritime scene. No sailboat or cruise ship. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-e9eecb6d-d841-4cb1-a7eb-f8015b211f9a.png",
+      "image": "assets/ferry.webp",
+      "sha256": "c84211392cfd55f3f7f3c2bafeeced1c516615e36bf7de55c1fe96c613e1d3c9"
+    },
+    {
+      "id": "window-washers",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. Two ADULT professional window cleaners, a Black woman and an East Asian man, stand on a fully railed commercial suspended platform outside a glass city skyscraper. Both wear helmets and full-body fall-arrest harnesses attached to independent overhead lifelines. One holds a squeegee, one checks the tethered bucket. Children watch from safely INSIDE the closed glass behind them. A reflected hazy streak is visible on one pane. Friendly confident professionals; medium distance showing safe equipment, no thrilling precarious pose. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-f72617c8-aa9e-4173-8702-c8c5cda7b4f5.png",
+      "image": "assets/window-washers.webp",
+      "sha256": "cdac884da9bf988e5bd6736a04f8801cb0810b6e78c222165f7a11abe8a191b8"
+    },
+    {
+      "id": "orchard",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A South Asian woman orchard grower and two diverse children carry small padded baskets along a level path between low apple trees loaded with red and green apples. The grower gently twists a ripe apple at reachable height. One child examines a fallen bruised apple in a separate compost basket. Warm autumn sunshine, no ladders. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-a644438e-73e4-4be6-a56f-210476160649.png",
+      "image": "assets/orchard.webp",
+      "sha256": "f10dff754a141b40b42da3440b6af553f102e4b5a94138a05706a25f313e0cdc"
+    },
+    {
+      "id": "bus-driver",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A Black woman city bus driver in a practical uniform waits at the steering wheel of a stationary accessible city bus. Through the open front door, an older East Asian passenger using a wheelchair boards on the deployed ramp while a parent and child wait patiently behind the curb. Interior driver controls modest and coherent; urban street stop, no readable signage. Driver attentive, bus parked, ramp clear. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-2cac626d-7fb6-4868-9bb7-676b15140c1c.png",
+      "image": "assets/bus-driver.webp",
+      "sha256": "21732b1e829d237456bf84289534b80eb1fcbf34bde1952fb57014e1ed52a7c3"
+    },
+    {
+      "id": "guide-dog",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. An adult woman who is blind walks confidently on a level city footpath with her trained golden guide dog in a working harness. She holds the rigid harness handle; the dog pauses before a temporary stack of boxes blocking part of the path. An adult friend stands alongside, and a child watches respectfully from farther away. Everyday friendly urban scene, clear guide-dog harness, no one distracting or petting the working dog. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-762486a4-4ed4-4b08-8dbb-6fb39472d338.png",
+      "image": "assets/guide-dog.webp",
+      "sha256": "188c5b8b967e9cf16d2a76bd848d9f1a152d98b6cc217294a081886e4f0e9f16"
+    },
+    {
+      "id": "pilot",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A South Asian woman airline captain and a Black male first officer stand together in the flight deck of a stationary passenger airliner at an airport gate, reviewing a simple chart with a cloud symbol and an alternate route line, no text. Through cockpit windows show rain clouds far away and a terminal. A young child visitor stands with a parent behind the pilots. Aircraft on ground, professionals focused, friendly calm scene. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-4c38cfce-8bc0-43e8-91c3-cc4e20accc23.png",
+      "image": "assets/pilot.webp",
+      "sha256": "b0d99dc3b01a7a424f2324fcb5dab59b733cdbfbc8e4b7831ad8977c9f3580ca"
+    },
+    {
+      "id": "cafe-bakery",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A Black woman caf\u00e9 and bakery owner in a teal apron and a Latino adult baker in a flour-dusted apron work together in a welcoming combined caf\u00e9 and bakery. Owner places warm bread rolls in a display basket while baker checks a tray of star-shaped biscuits. A family sits at a small caf\u00e9 table nearby, visible bakery oven safely behind counter. Separate small paper collection bag with a plain yellow ribbon. Diverse warm community setting, no readable menus or packaging. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-dd72a186-33f3-45ed-9bb9-9b588760d1a3.png",
+      "image": "assets/cafe-bakery.webp",
+      "sha256": "e296abdcf566a53faa14ad53bf3cb7a7724425867cecbcf69b63b0df1309b8ef"
+    },
+    {
+      "id": "animal-rescue",
+      "prompt": "Use case: illustration-story. Asset type: short reading passage for children. Create ONE original polished Pixar-style 3D family-film illustration, landscape 4:3. A South Asian woman trained animal rescuer and a Black male volunteer kneel beside an open ventilated animal carrier on a quiet park path. A small duckling waits near its duck family at the grassy edge of a shallow pond; rescued animal calm, uninjured, no distress. Two diverse children observe with a parent several steps away. The rescuer keeps people back and allows the duck family space. Clear gentle wildlife rescue scene. Warm cinematic lighting, expressive diverse people, tactile materials, clear coherent action. No text, readable signs, captions, speech bubbles, logos, panels or collage.",
+      "source": "C:\\Users\\anton\\.codex\\generated_images\\01a1789e-43ea-7be0-8338-53600ae18f4d\\exec-5b3cee7d-cb76-4b6b-b642-374be999baf9.png",
+      "image": "assets/animal-rescue.webp",
+      "sha256": "d044ba4f613847115c88f894855ed6067178c7201d689f6847404bb79b98dd07"
+    }
+  ]
+}

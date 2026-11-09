@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#3c2549">
+  <title>Candy Word Machine · Word &amp; Reading Skills</title>
+  <link rel="stylesheet" href="../../Passage-Adventures/High-Park-Leaf-Crew/fonts/andika.css">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="questions.js"></script>
+  <script defer src="game.js?v=four"></script>
+</head>
+<body>
+  <main class="activity">
+    <nav class="breadcrumbs" aria-label="Back to the collection">
+      <a href="../index.html">← Word &amp; Reading Skills</a>
+      <a href="../../index.html#all-adventures">All Adventures</a>
+    </nav>
+    <header class="title-row">
+      <div>
+        <p class="eyebrow">WORD WORK · 30 CHALLENGES</p>
+        <h1>Candy Word Machine</h1>
+      </div>
+      <div class="tools">
+        <label>Question <select id="question"></select></label>
+        <button type="button" id="shuffle">Shuffle questions</button>
+        <button type="button" id="reset">Reset page</button>
+      </div>
+    </header>
+    <div class="board">
+      <aside class="machine" aria-labelledby="tries">
+        <svg class="machine-art" viewBox="0 0 352 418" role="img" aria-label="A candy machine with four colourful candies that disappear as tries are used">
+          <defs>
+            <linearGradient id="cabinet" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox">
+              <stop stop-color="#fa796f"/><stop offset="1" stop-color="#c33969"/>
+            </linearGradient>
+            <linearGradient id="glass" x1="0" x2="0" y1="0" y2="1" gradientUnits="objectBoundingBox">
+              <stop stop-color="#fff5d8"/><stop offset="1" stop-color="#ffdcb7"/>
+            </linearGradient>
+            <g id="candy-art">
+              <path d="M-19-6-29-13l-1 24 12-6m37-11 10-7 1 24-12-6" fill="currentColor" stroke="#442951" stroke-width="2.6" stroke-linejoin="round"/>
+              <circle r="21" fill="currentColor" stroke="#442951" stroke-width="3"/>
+              <path d="M-12 11C-2 14 9 5 13-8M-15-2c2-5 5-8 10-10" fill="none" stroke="#fff" stroke-opacity=".74" stroke-width="4.4" stroke-linecap="round"/>
+            </g>
+          </defs>
+          <ellipse cx="176" cy="395" rx="140" ry="17" fill="#caab8a" opacity=".37"/>
+          <path d="M68 357h216l22 35H46z" fill="#723b72" stroke="#442951" stroke-width="5"/>
+          <rect x="42" y="20" width="268" height="351" rx="40" fill="url(#cabinet)" stroke="#442951" stroke-width="6"/>
+          <path d="M76 25h200l-21 26H97z" fill="#ffd392" stroke="#442951" stroke-width="4" stroke-linejoin="round"/>
+          <circle cx="176" cy="35" r="9" fill="#fcf0c6"/>
+          <rect x="63" y="63" width="226" height="199" rx="30" fill="#723b72" stroke="#442951" stroke-width="5"/>
+          <rect x="73" y="73" width="206" height="179" rx="23" fill="url(#glass)"/>
+          <path d="M84 101c0-13 8-20 21-20h42m89 163h20c9 0 15-8 15-17" fill="none" stroke="#fff9e9" stroke-width="5" stroke-linecap="round"/>
+          <path d="M83 166h186M83 235h186" stroke="#c68b80" stroke-width="3" stroke-linecap="round" opacity=".47"/>
+          <g class="candies">
+            <g data-candy="0" transform="translate(132 139)" color="#ffbf59"><use href="#candy-art"/></g>
+            <g data-candy="1" transform="translate(220 139)" color="#a6d77b"><use href="#candy-art"/></g>
+            <g data-candy="2" transform="translate(132 208)" color="#8dd3ec"><use href="#candy-art"/></g>
+            <g data-candy="3" transform="translate(220 208)" color="#d0a4f0"><use href="#candy-art"/></g>
+          </g>
+          <rect x="121" y="280" width="110" height="64" rx="17" fill="#ffd392" stroke="#442951" stroke-width="4.5"/>
+          <rect x="132" y="293" width="88" height="38" rx="11" fill="#512f55"/>
+          <path d="M141 326h70" stroke="#a96180" stroke-width="4" stroke-linecap="round"/>
+          <g id="dispensed" aria-hidden="true"><use href="#candy-art" transform="translate(176 309) scale(.48)"/></g>
+          <circle cx="87" cy="309" r="13" fill="#fff0c5" stroke="#442951" stroke-width="3"/>
+          <path d="m83 309 3 3 6-6" fill="none" stroke="#6e426b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="265" cy="309" r="13" fill="#fff0c5" stroke="#442951" stroke-width="3"/>
+          <path d="M265 303v12m-6-6h12" stroke="#6e426b" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M68 352h216" stroke="#f8a197" stroke-width="4" stroke-linecap="round"/>
+        </svg>
+        <div class="machine-caption">
+          <p class="eyebrow">YOUR CANDIES</p>
+          <p class="tries" id="tries"><strong id="left">4</strong> tries left</p>
+          <p class="machine-note">Every try uses one candy.</p>
+        </div>
+      </aside>
+      <section class="puzzle" aria-labelledby="challenge">
+        <header class="puzzle-heading">
+          <p class="eyebrow">MAKE THREE WORDS</p>
+          <h2 id="challenge"></h2>
+          <p class="instruction">Drag a tile into a blank.</p>
+        </header>
+        <div class="words" id="words" role="group" aria-label="Three words with blanks"></div>
+        <div class="bank-wrap">
+          <p class="eyebrow bank-label">10 TILES</p>
+          <div class="bank" id="bank" role="group" aria-label="Word tiles"></div>
+        </div>
+        <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
+      </section>
+    </div>
+    <footer>
+      <button type="button" id="back">← Previous</button>
+      <span class="progress" id="progress"></span>
+      <button type="button" id="next" class="primary">Next question →</button>
+    </footer>
+  </main>
+</body>
+</html>

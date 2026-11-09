@@ -1,0 +1,3166 @@
+{
+  "stories": 30,
+  "passages": 120,
+  "responses": 1200,
+  "content": [
+    {
+      "id": "cenote",
+      "words": [
+        71,
+        89,
+        122,
+        142
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "mechanic",
+      "words": [
+        67,
+        95,
+        127,
+        153
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "dentist",
+      "words": [
+        66,
+        90,
+        137,
+        156
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "city-gardener",
+      "words": [
+        60,
+        104,
+        131,
+        161
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "ferry",
+      "words": [
+        63,
+        95,
+        143,
+        164
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "window-washers",
+      "words": [
+        65,
+        89,
+        132,
+        164
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "orchard",
+      "words": [
+        75,
+        103,
+        143,
+        165
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "bus-driver",
+      "words": [
+        69,
+        110,
+        140,
+        165
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "guide-dog",
+      "words": [
+        68,
+        101,
+        131,
+        155
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "pilot",
+      "words": [
+        66,
+        105,
+        139,
+        166
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "cafe-bakery",
+      "words": [
+        73,
+        105,
+        142,
+        167
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "scuba",
+      "words": [
+        71,
+        104,
+        147,
+        164
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "pet-rescue",
+      "words": [
+        83,
+        122,
+        157,
+        174
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "animal-rescue",
+      "words": [
+        75,
+        110,
+        151,
+        181
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "robot",
+      "words": [
+        69,
+        99,
+        145,
+        168
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "bridge",
+      "words": [
+        72,
+        101,
+        145,
+        166
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "library",
+      "words": [
+        72,
+        107,
+        146,
+        162
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "kite",
+      "words": [
+        70,
+        106,
+        159,
+        170
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "trail-map",
+      "words": [
+        77,
+        103,
+        154,
+        171
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "picnic",
+      "words": [
+        75,
+        106,
+        158,
+        169
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "glider",
+      "words": [
+        67,
+        109,
+        142,
+        164
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "fossil",
+      "words": [
+        74,
+        112,
+        154,
+        172
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "space",
+      "words": [
+        77,
+        113,
+        154,
+        180
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "invitation",
+      "words": [
+        68,
+        102,
+        149,
+        177
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "snowman",
+      "words": [
+        68,
+        106,
+        145,
+        172
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "sandcastle",
+      "words": [
+        72,
+        106,
+        145,
+        169
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "pony",
+      "words": [
+        77,
+        115,
+        152,
+        186
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "rock-pool",
+      "words": [
+        71,
+        107,
+        150,
+        166
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "towel",
+      "words": [
+        71,
+        110,
+        144,
+        172
+      ],
+      "fourDistinctVersions": true
+    },
+    {
+      "id": "station",
+      "words": [
+        76,
+        108,
+        151,
+        176
+      ],
+      "fourDistinctVersions": true
+    }
+  ],
+  "interactions": [
+    {
+      "level": "A",
+      "mode": "choice",
+      "story": "trail-map",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "story": "animal-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "story": "space",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "story": "pet-rescue",
+      "complete": true,
+      "touch": true
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "story": "invitation",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "story": "space",
+      "complete": true,
+      "touch": false
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 844,
+      "height": 390,
+      "touch": true,
+      "returnAndRedrag": true,
+      "complete": true
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 844,
+      "height": 390,
+      "touch": true,
+      "returnAndRedrag": true,
+      "complete": true
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 844,
+      "height": 390,
+      "touch": true,
+      "returnAndRedrag": true,
+      "complete": true
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 844,
+      "height": 390,
+      "touch": true,
+      "returnAndRedrag": true,
+      "complete": true
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "touch": true,
+      "returnAndRedrag": true,
+      "complete": true
+    }
+  ],
+  "layouts": [
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1366,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1280,
+      "height": 720,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 1024,
+      "height": 768,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 768,
+      "height": 1024,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "choice",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sequence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "truefalse",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "cloze",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "match",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "evidence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "picture",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "inference",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "sentence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "choice",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sequence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "truefalse",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "cloze",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "match",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "evidence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "picture",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "inference",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "sentence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "choice",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sequence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "truefalse",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "cloze",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "match",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "evidence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "picture",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "inference",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "sentence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "choice",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sequence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "truefalse",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "cloze",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "match",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "evidence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "picture",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "inference",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "sentence",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "page": "Passage-Adventures/index.html",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "page": "index.html#all-adventures",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1366,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1280,
+      "height": 720,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 1024,
+      "height": 768,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 768,
+      "height": 1024,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 390,
+      "height": 844,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "mode": "dialogue",
+      "width": 844,
+      "height": 390,
+      "complete": true,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "story": "scuba",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "story": "scuba",
+      "view": "work",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "story": "scuba",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "story": "scuba",
+      "view": "work",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "story": "scuba",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "story": "scuba",
+      "view": "work",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "story": "scuba",
+      "view": "story",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "story": "scuba",
+      "view": "work",
+      "width": 390,
+      "height": 844,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "story": "scuba",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "A",
+      "story": "scuba",
+      "view": "work",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "story": "scuba",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AA",
+      "story": "scuba",
+      "view": "work",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "story": "scuba",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAA",
+      "story": "scuba",
+      "view": "work",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "story": "scuba",
+      "view": "story",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    },
+    {
+      "level": "AAAA",
+      "story": "scuba",
+      "view": "work",
+      "width": 844,
+      "height": 390,
+      "issues": []
+    }
+  ],
+  "errors": [],
+  "resources": [],
+  "print": [
+    "choice",
+    "sequence",
+    "truefalse",
+    "cloze",
+    "match",
+    "evidence",
+    "picture",
+    "dialogue",
+    "inference",
+    "sentence"
+  ],
+  "statementFeedbackAccurate": true,
+  "exportGenerated": true,
+  "printChecks": [
+    {
+      "mode": "choice",
+      "pages": 1
+    },
+    {
+      "mode": "cloze",
+      "pages": 1
+    },
+    {
+      "mode": "dialogue",
+      "pages": 1
+    },
+    {
+      "mode": "evidence",
+      "pages": 1
+    },
+    {
+      "mode": "inference",
+      "pages": 1
+    },
+    {
+      "mode": "match",
+      "pages": 1
+    },
+    {
+      "mode": "picture",
+      "pages": 1
+    },
+    {
+      "mode": "sentence",
+      "pages": 1
+    },
+    {
+      "mode": "sequence",
+      "pages": 1
+    },
+    {
+      "mode": "truefalse",
+      "pages": 1
+    }
+  ],
+  "workbookChecks": {
+    "summaryRows": 41,
+    "progressRows": 1201,
+    "progressColumns": 18
+  },
+  "shufflePreservesProgress": true,
+  "levelSwitchPreservesStory": true,
+  "levelAndStoryPersistOnReload": true,
+  "clozeVoiceSaysBlank": true,
+  "nextStoryReturnsToReading": true
+}
